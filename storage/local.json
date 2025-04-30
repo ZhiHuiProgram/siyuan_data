@@ -1,0 +1,217 @@
+{
+  "local-codelang": "abap",
+  "local-dialogposition": {
+    "dialog-searchtype": {
+      "height": 576,
+      "left": 543,
+      "top": 123,
+      "width": 519
+    }
+  },
+  "local-fileposition": {
+    "20200812220555-lj3enxa": {
+      "endId": "20240508001403-j8ceveg",
+      "rootId": "20200812220555-lj3enxa",
+      "scrollTop": 612,
+      "startId": "20241125224159-8zf3bos"
+    },
+    "20220415190432-r3xqn3r": {
+      "endId": "20220415232054-zr76p9s",
+      "focusEnd": 0,
+      "focusId": "20220415192036-99dwwdh",
+      "focusStart": 0,
+      "rootId": "20220415190432-r3xqn3r",
+      "scrollTop": 1887,
+      "startId": "20220415192036-99dwwdh"
+    },
+    "20240113102857-c63dmo5": {
+      "endId": "20250114215221-sl97cs4",
+      "focusEnd": 0,
+      "focusId": "20240113102857-aof1w7f",
+      "focusStart": 0,
+      "rootId": "20240113102857-c63dmo5",
+      "scrollTop": 930,
+      "startId": "20240113102857-aof1w7f"
+    },
+    "20250402143501-u8trb85": {
+      "endId": "20250427202546-gu8keve",
+      "rootId": "20250402143501-u8trb85",
+      "scrollTop": 2029,
+      "startId": "20250402143501-5vxpcvw"
+    },
+    "20250415202526-cv9wg2e": {
+      "endId": "20250427182152-kjuapwq",
+      "focusEnd": 97,
+      "focusId": "20250415202639-rny27oq",
+      "focusStart": 97,
+      "rootId": "20250415202526-cv9wg2e",
+      "scrollTop": 533,
+      "startId": "20250415202526-fymwnhh"
+    },
+    "20250415202548-d6wbeb6": {
+      "endId": "20250415202548-drqz7dw",
+      "focusEnd": 0,
+      "focusId": "20250415202548-drqz7dw",
+      "focusStart": 0,
+      "rootId": "20250415202548-d6wbeb6",
+      "scrollTop": 0,
+      "startId": "20250415202548-drqz7dw"
+    },
+    "20250415202821-ebmk4hh": {
+      "endId": "20250429091509-26dyk40",
+      "rootId": "20250415202821-ebmk4hh",
+      "scrollTop": 0,
+      "startId": "20250415202821-sih3k1v"
+    },
+    "20250415203235-x9fqtuu": {
+      "endId": "20250421161535-xoyrc9g",
+      "focusEnd": 0,
+      "focusId": "20250415203235-hv41rvm",
+      "focusStart": 0,
+      "rootId": "20250415203235-x9fqtuu",
+      "scrollTop": 0,
+      "startId": "20250415203235-hv41rvm"
+    },
+    "20250421161834-cbj7t4x": {
+      "endId": "20250421161924-qolk65y",
+      "focusEnd": 0,
+      "focusId": "20250421161924-qolk65y",
+      "focusStart": 0,
+      "rootId": "20250421161834-cbj7t4x",
+      "scrollTop": 0,
+      "startId": "20250421161905-vlc52z7"
+    },
+    "20250425102213-tvujpl8": {
+      "endId": "20250425102237-e59fjay",
+      "rootId": "20250425102213-tvujpl8",
+      "scrollTop": 0,
+      "startId": "20250425102213-erlas71"
+    },
+    "20250425103241-yb8mqcf": {
+      "endId": "20250425110317-cs2wkn5",
+      "focusEnd": 4,
+      "focusId": "20250425110309-xqvh81s",
+      "focusStart": 4,
+      "rootId": "20250425103241-yb8mqcf",
+      "scrollTop": 0,
+      "startId": "20250425103241-bw9swrt"
+    },
+    "20250428160152-p316k51": {
+      "endId": "20250428160246-m77gmj9",
+      "focusEnd": 0,
+      "focusId": "20250428160246-m77gmj9",
+      "focusStart": 0,
+      "rootId": "20250428160152-p316k51",
+      "scrollTop": 0,
+      "startId": "20250428160152-eae2ims"
+    }
+  },
+  "local-filespaths": [
+    {
+      "notebookId": "20250421161831-4yd9i2x",
+      "openPaths": [
+        "/20250421161834-cbj7t4x.sy"
+      ]
+    },
+    {
+      "notebookId": "20250430135625-xaf7wgm",
+      "openPaths": [
+        "/20250430140658-z0p2fu2.sy"
+      ]
+    }
+  ],
+  "local-fontstyles": [
+    "fontSize​16px",
+    "fontSize​15px",
+    "fontSize​13px",
+    "fontSize​9px",
+    "fontSize​20px",
+    "fontSize​21px",
+    "fontSize​23px",
+    "fontSize​28px"
+  ],
+  "local-history": {
+    "notebookId": "%",
+    "operation": "all",
+    "sideDiffWidth": "256px",
+    "sideDocWidth": "256px",
+    "sideWidth": "256px",
+    "type": 0
+  },
+  "local-searchdata": {
+    "group": 0,
+    "hPath": "",
+    "hasReplace": false,
+    "idPath": [],
+    "k": "pip",
+    "method": 0,
+    "page": 1,
+    "r": "",
+    "removed": true,
+    "replaceTypes": {
+      "aHref": true,
+      "aText": true,
+      "aTitle": true,
+      "blockRef": true,
+      "code": true,
+      "codeBlock": true,
+      "docTitle": true,
+      "em": true,
+      "fileAnnotationRef": true,
+      "htmlBlock": true,
+      "imgSrc": true,
+      "imgText": true,
+      "imgTitle": true,
+      "inlineMath": true,
+      "inlineMemo": true,
+      "kbd": true,
+      "mark": true,
+      "mathBlock": true,
+      "s": true,
+      "strong": true,
+      "sub": true,
+      "sup": true,
+      "tag": true,
+      "text": true,
+      "u": true
+    },
+    "sort": 0,
+    "types": {
+      "audioBlock": false,
+      "blockquote": false,
+      "codeBlock": true,
+      "databaseBlock": true,
+      "document": true,
+      "embedBlock": false,
+      "heading": true,
+      "htmlBlock": true,
+      "iframeBlock": false,
+      "list": false,
+      "listItem": false,
+      "mathBlock": true,
+      "paragraph": true,
+      "superBlock": false,
+      "table": true,
+      "videoBlock": false,
+      "widgetBlock": false
+    }
+  },
+  "local-searchkeys": {
+    "col": "",
+    "colTab": "",
+    "keys": [
+      "pip",
+      "echo 3",
+      "export",
+      "dd",
+      "内存",
+      "",
+      "是"
+    ],
+    "layout": 0,
+    "layoutTab": 0,
+    "replaceKeys": [],
+    "row": "",
+    "rowTab": ""
+  }
+}
