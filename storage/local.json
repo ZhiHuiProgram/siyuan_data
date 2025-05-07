@@ -59,11 +59,8 @@
     },
     "20250415202821-ebmk4hh": {
       "endId": "20250430113846-2brhwcm",
-      "focusEnd": 4,
-      "focusId": "20250415203017-synzlsr",
-      "focusStart": 4,
       "rootId": "20250415202821-ebmk4hh",
-      "scrollTop": 0,
+      "scrollTop": 596,
       "startId": "20250415202821-sih3k1v"
     },
     "20250415203235-x9fqtuu": {
@@ -108,6 +105,15 @@
       "scrollTop": 0,
       "startId": "20250428160152-eae2ims"
     },
+    "20250430111414-lz2uu61": {
+      "endId": "20250430112755-e92wo1r",
+      "focusEnd": 196,
+      "focusId": "20250430112505-wrrh52t",
+      "focusStart": 171,
+      "rootId": "20250430111414-lz2uu61",
+      "scrollTop": 0,
+      "startId": "20250430111414-u0wtr77"
+    },
     "20250430135627-ergqdb2": {
       "endId": "20250430135646-wv25vo7",
       "focusEnd": 278,
@@ -134,13 +140,34 @@
       "rootId": "20250430143813-7s4w4uh",
       "scrollTop": 0,
       "startId": "20250430143813-1nob9uw"
+    },
+    "20250506114013-1oe3tdt": {
+      "endId": "20250506114023-0gas7mz",
+      "focusEnd": 5,
+      "focusId": "20250506114013-i946jq7",
+      "focusStart": 5,
+      "rootId": "20250506114013-1oe3tdt",
+      "scrollTop": 0,
+      "startId": "20250506114013-i946jq7"
     }
   },
   "local-filespaths": [
     {
+      "notebookId": "20250402143433-xostob0",
+      "openPaths": [
+        "/20250415202548-d6wbeb6.sy"
+      ]
+    },
+    {
       "notebookId": "20250415202522-17y9ji7",
       "openPaths": [
         "/20250428160152-p316k51.sy"
+      ]
+    },
+    {
+      "notebookId": "20250415202817-tti0zln",
+      "openPaths": [
+        "/20250430111414-lz2uu61.sy"
       ]
     },
     {
@@ -153,6 +180,18 @@
       "notebookId": "20250425103239-6xyrju6",
       "openPaths": [
         "/20250425103241-yb8mqcf.sy"
+      ]
+    },
+    {
+      "notebookId": "20250430135625-xaf7wgm",
+      "openPaths": [
+        "/20250430143813-7s4w4uh.sy"
+      ]
+    },
+    {
+      "notebookId": "20250506114010-o3ziv6l",
+      "openPaths": [
+        "/20250506114013-1oe3tdt.sy"
       ]
     }
   ],
@@ -179,7 +218,7 @@
     "hPath": "",
     "hasReplace": false,
     "idPath": [],
-    "k": "pip",
+    "k": "文件夹",
     "method": 0,
     "page": 1,
     "r": "",
@@ -236,6 +275,10 @@
     "col": "",
     "colTab": "",
     "keys": [
+      "文件夹",
+      "文件夹大小",
+      "exp",
+      "8.8.8.",
       "pip",
       "echo 3",
       "export",
