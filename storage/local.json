@@ -34,18 +34,15 @@
       "startId": "20240113102857-aof1w7f"
     },
     "20250402143501-u8trb85": {
-      "endId": "20250427202546-gu8keve",
+      "endId": "20250506130412-g8mjcmb",
       "rootId": "20250402143501-u8trb85",
       "scrollTop": 2029,
       "startId": "20250402143501-5vxpcvw"
     },
     "20250415202526-cv9wg2e": {
       "endId": "20250427182152-kjuapwq",
-      "focusEnd": 97,
-      "focusId": "20250415202639-rny27oq",
-      "focusStart": 97,
       "rootId": "20250415202526-cv9wg2e",
-      "scrollTop": 903,
+      "scrollTop": 0,
       "startId": "20250415202526-fymwnhh"
     },
     "20250415202548-d6wbeb6": {
@@ -58,9 +55,12 @@
       "startId": "20250415202548-drqz7dw"
     },
     "20250415202821-ebmk4hh": {
-      "endId": "20250430113846-2brhwcm",
+      "endId": "20250506165344-w185cmi",
+      "focusEnd": 0,
+      "focusId": "20250506165344-w185cmi",
+      "focusStart": 0,
       "rootId": "20250415202821-ebmk4hh",
-      "scrollTop": 596,
+      "scrollTop": 1867,
       "startId": "20250415202821-sih3k1v"
     },
     "20250415203235-x9fqtuu": {
@@ -107,18 +107,18 @@
     },
     "20250430111414-lz2uu61": {
       "endId": "20250430112755-e92wo1r",
-      "focusEnd": 196,
+      "focusEnd": 147,
       "focusId": "20250430112505-wrrh52t",
-      "focusStart": 171,
+      "focusStart": 115,
       "rootId": "20250430111414-lz2uu61",
       "scrollTop": 0,
       "startId": "20250430111414-u0wtr77"
     },
     "20250430135627-ergqdb2": {
       "endId": "20250430135646-wv25vo7",
-      "focusEnd": 278,
-      "focusId": "20250430135627-fsemyrp",
-      "focusStart": 269,
+      "focusEnd": 0,
+      "focusId": "20250430135646-wv25vo7",
+      "focusStart": 0,
       "rootId": "20250430135627-ergqdb2",
       "scrollTop": 0,
       "startId": "20250430135627-fsemyrp"
@@ -133,10 +133,10 @@
       "startId": "20250430140658-4z0biad"
     },
     "20250430143813-7s4w4uh": {
-      "endId": "20250430145056-xr2d8gd",
-      "focusEnd": 0,
-      "focusId": "20250430145056-xr2d8gd",
-      "focusStart": 0,
+      "endId": "20250430164737-lhhpql2",
+      "focusEnd": 143,
+      "focusId": "20250430143900-aycgp2h",
+      "focusStart": 143,
       "rootId": "20250430143813-7s4w4uh",
       "scrollTop": 0,
       "startId": "20250430143813-1nob9uw"
@@ -149,6 +149,15 @@
       "rootId": "20250506114013-1oe3tdt",
       "scrollTop": 0,
       "startId": "20250506114013-i946jq7"
+    },
+    "20250508161508-ztfnxiw": {
+      "endId": "20250508161619-a9oemoh",
+      "focusEnd": 306,
+      "focusId": "20250508161508-8a9vvkm",
+      "focusStart": 306,
+      "rootId": "20250508161508-ztfnxiw",
+      "scrollTop": 0,
+      "startId": "20250508161508-8a9vvkm"
     }
   },
   "local-filespaths": [
@@ -185,7 +194,7 @@
     {
       "notebookId": "20250430135625-xaf7wgm",
       "openPaths": [
-        "/20250430143813-7s4w4uh.sy"
+        "/20250508161508-ztfnxiw.sy"
       ]
     },
     {
@@ -215,10 +224,12 @@
   },
   "local-searchdata": {
     "group": 0,
-    "hPath": "",
+    "hPath": "ingenic/君正T32",
     "hasReplace": false,
-    "idPath": [],
-    "k": "文件夹",
+    "idPath": [
+      "20250415202522-17y9ji7/20250415202526-cv9wg2e.sy"
+    ],
+    "k": "dd",
     "method": 0,
     "page": 1,
     "r": "",
@@ -275,6 +286,9 @@
     "col": "",
     "colTab": "",
     "keys": [
+      "dd",
+      "动态",
+      "库",
       "文件夹",
       "文件夹大小",
       "exp",
@@ -282,7 +296,6 @@
       "pip",
       "echo 3",
       "export",
-      "dd",
       "内存",
       "",
       "是"
