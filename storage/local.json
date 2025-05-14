@@ -8,6 +8,9 @@
       "width": 519
     }
   },
+  "local-emojis": {
+    "currentTab": "emoji"
+  },
   "local-fileposition": {
     "20200812220555-lj3enxa": {
       "endId": "20240508001403-j8ceveg",
@@ -44,29 +47,29 @@
     },
     "20250415202526-cv9wg2e": {
       "endId": "20250427182152-kjuapwq",
-      "focusEnd": 4,
-      "focusId": "20250428160126-wrig7hd",
-      "focusStart": 4,
+      "focusEnd": 160,
+      "focusId": "20250415203057-qd4zy9q",
+      "focusStart": 45,
       "rootId": "20250415202526-cv9wg2e",
-      "scrollTop": 1235,
+      "scrollTop": 533,
       "startId": "20250415202526-fymwnhh"
     },
     "20250415202548-d6wbeb6": {
-      "endId": "20250508202038-srbygrm",
-      "focusEnd": 0,
-      "focusId": "20250508202038-srbygrm",
-      "focusStart": 0,
+      "endId": "20250510175853-7jed764",
+      "focusEnd": 39,
+      "focusId": "20250508191615-n4wfck1",
+      "focusStart": 39,
       "rootId": "20250415202548-d6wbeb6",
       "scrollTop": 0,
       "startId": "20250415202548-drqz7dw"
     },
     "20250415202821-ebmk4hh": {
       "endId": "20250506165344-w185cmi",
-      "focusEnd": 0,
-      "focusId": "20250506165344-w185cmi",
+      "focusEnd": 36,
+      "focusId": "20250417110917-sbrub5r",
       "focusStart": 0,
       "rootId": "20250415202821-ebmk4hh",
-      "scrollTop": 1867,
+      "scrollTop": 1600,
       "startId": "20250415202821-sih3k1v"
     },
     "20250415203235-x9fqtuu": {
@@ -112,10 +115,10 @@
       "startId": "20250428160152-eae2ims"
     },
     "20250430111414-lz2uu61": {
-      "endId": "20250430112755-e92wo1r",
-      "focusEnd": 147,
-      "focusId": "20250430112505-wrrh52t",
-      "focusStart": 115,
+      "endId": "20250509170952-zjjruty",
+      "focusEnd": 4,
+      "focusId": "20250509170952-zjjruty",
+      "focusStart": 4,
       "rootId": "20250430111414-lz2uu61",
       "scrollTop": 0,
       "startId": "20250430111414-u0wtr77"
@@ -130,19 +133,19 @@
       "startId": "20250430135627-fsemyrp"
     },
     "20250430140658-z0p2fu2": {
-      "endId": "20250430145950-i91jspz",
-      "focusEnd": 0,
-      "focusId": "20250430145950-i91jspz",
-      "focusStart": 0,
+      "endId": "20250510151629-jayblb4",
+      "focusEnd": 4,
+      "focusId": "20250510151511-jg9ezkd",
+      "focusStart": 4,
       "rootId": "20250430140658-z0p2fu2",
       "scrollTop": 0,
       "startId": "20250430140658-4z0biad"
     },
     "20250430143813-7s4w4uh": {
       "endId": "20250430164737-lhhpql2",
-      "focusEnd": 143,
-      "focusId": "20250430143900-aycgp2h",
-      "focusStart": 143,
+      "focusEnd": 220,
+      "focusId": "20250430143813-1nob9uw",
+      "focusStart": 197,
       "rootId": "20250430143813-7s4w4uh",
       "scrollTop": 0,
       "startId": "20250430143813-1nob9uw"
@@ -157,10 +160,10 @@
       "startId": "20250506114013-i946jq7"
     },
     "20250508161508-ztfnxiw": {
-      "endId": "20250508161619-a9oemoh",
-      "focusEnd": 306,
+      "endId": "20250510151548-ym5g7ph",
+      "focusEnd": 223,
       "focusId": "20250508161508-8a9vvkm",
-      "focusStart": 228,
+      "focusStart": 111,
       "rootId": "20250508161508-ztfnxiw",
       "scrollTop": 0,
       "startId": "20250508161508-8a9vvkm"
@@ -230,11 +233,9 @@
   },
   "local-searchdata": {
     "group": 0,
-    "hPath": "ingenic/君正T32",
+    "hPath": "",
     "hasReplace": false,
-    "idPath": [
-      "20250415202522-17y9ji7/20250415202526-cv9wg2e.sy"
-    ],
+    "idPath": [],
     "k": "dd",
     "method": 0,
     "page": 1,
@@ -293,6 +294,7 @@
     "colTab": "",
     "keys": [
       "dd",
+      "只读",
       "动态",
       "库",
       "文件夹",
