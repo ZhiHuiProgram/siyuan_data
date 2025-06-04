@@ -251,10 +251,12 @@
   },
   "local-searchdata": {
     "group": 0,
-    "hPath": "",
+    "hPath": "虚拟机/Ubuntu",
     "hasReplace": false,
-    "idPath": [],
-    "k": "osip",
+    "idPath": [
+      "20250415202817-tti0zln/20250415202821-ebmk4hh.sy"
+    ],
+    "k": "8.8",
     "method": 0,
     "page": 1,
     "r": "",
@@ -311,6 +313,8 @@
     "col": "",
     "colTab": "",
     "keys": [
+      "8.8",
+      "pip",
       "osip",
       "crc",
       "crc32",
@@ -326,7 +330,6 @@
       "文件夹大小",
       "exp",
       "8.8.8.",
-      "pip",
       "echo 3",
       "export",
       "内存",
