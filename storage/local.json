@@ -53,9 +53,9 @@
     },
     "20250415202526-cv9wg2e": {
       "endId": "20250427182152-kjuapwq",
-      "focusEnd": 18,
-      "focusId": "20250415202639-rny27oq",
-      "focusStart": 18,
+      "focusEnd": 131,
+      "focusId": "20250415203211-rodyqg8",
+      "focusStart": 87,
       "rootId": "20250415202526-cv9wg2e",
       "scrollTop": 267,
       "startId": "20250415202526-fymwnhh"
@@ -71,11 +71,11 @@
     },
     "20250415202821-ebmk4hh": {
       "endId": "20250506165344-w185cmi",
-      "focusEnd": 45,
+      "focusEnd": 50,
       "focusId": "20250415203009-mlgwb7p",
-      "focusStart": 45,
+      "focusStart": 25,
       "rootId": "20250415202821-ebmk4hh",
-      "scrollTop": 0,
+      "scrollTop": 800,
       "startId": "20250415202821-sih3k1v"
     },
     "20250415203235-x9fqtuu": {
@@ -89,18 +89,12 @@
     },
     "20250421161834-cbj7t4x": {
       "endId": "20250421161924-qolk65y",
-      "focusEnd": 0,
-      "focusId": "20250421161924-qolk65y",
-      "focusStart": 0,
       "rootId": "20250421161834-cbj7t4x",
       "scrollTop": 0,
       "startId": "20250421161905-vlc52z7"
     },
     "20250425102213-tvujpl8": {
       "endId": "20250425102237-e59fjay",
-      "focusEnd": 0,
-      "focusId": "20250425102213-erlas71",
-      "focusStart": 0,
       "rootId": "20250425102213-tvujpl8",
       "scrollTop": 0,
       "startId": "20250425102213-erlas71"
@@ -111,7 +105,7 @@
       "focusId": "20250425103241-bw9swrt",
       "focusStart": 0,
       "rootId": "20250425103241-yb8mqcf",
-      "scrollTop": 351,
+      "scrollTop": 267,
       "startId": "20250425103241-bw9swrt"
     },
     "20250428160152-p316k51": {
@@ -124,12 +118,12 @@
       "startId": "20250428160152-eae2ims"
     },
     "20250430111414-lz2uu61": {
-      "endId": "20250603165644-45dwtfa",
-      "focusEnd": 236,
+      "endId": "20250606140526-ljwhml0",
+      "focusEnd": 279,
       "focusId": "20250603165644-45dwtfa",
-      "focusStart": 236,
+      "focusStart": 279,
       "rootId": "20250430111414-lz2uu61",
-      "scrollTop": 533,
+      "scrollTop": 0,
       "startId": "20250430111414-u0wtr77"
     },
     "20250430135627-ergqdb2": {
@@ -170,11 +164,11 @@
     },
     "20250508161508-ztfnxiw": {
       "endId": "20250510151548-ym5g7ph",
-      "focusEnd": 44,
+      "focusEnd": 4,
       "focusId": "20250510151533-48vo7j7",
       "focusStart": 4,
       "rootId": "20250508161508-ztfnxiw",
-      "scrollTop": 400,
+      "scrollTop": 0,
       "startId": "20250508161508-8a9vvkm"
     },
     "20250520104929-tb3e4ic": {
@@ -185,13 +179,31 @@
       "rootId": "20250520104929-tb3e4ic",
       "scrollTop": 275,
       "startId": "20250520104929-ftjdelw"
+    },
+    "20250526153143-qmt5w8b": {
+      "endId": "20250526153213-uypyeza",
+      "focusEnd": 0,
+      "focusId": "20250526153143-ps4jaai",
+      "focusStart": 0,
+      "rootId": "20250526153143-qmt5w8b",
+      "scrollTop": 0,
+      "startId": "20250526153143-ps4jaai"
+    },
+    "20250527175746-1dvx7su": {
+      "endId": "20250527175819-ts6tqoi",
+      "focusEnd": 8,
+      "focusId": "20250527175752-1mitzwf",
+      "focusStart": 8,
+      "rootId": "20250527175746-1dvx7su",
+      "scrollTop": 0,
+      "startId": "20250527175752-1mitzwf"
     }
   },
   "local-filespaths": [
     {
       "notebookId": "20250402143433-xostob0",
       "openPaths": [
-        "/20250415202548-d6wbeb6.sy"
+        "/20250614180207-gdvmm6z.sy"
       ]
     },
     {
@@ -257,12 +269,10 @@
   },
   "local-searchdata": {
     "group": 0,
-    "hPath": "富瀚/未命名",
+    "hPath": "",
     "hasReplace": false,
-    "idPath": [
-      "20250604144341-75bpbp8/20250604144344-jocgqqp.sy"
-    ],
-    "k": "sf probe 0;sf read 0x40007800 0x120000 0xc00000;bootx 0x40008000 - 0x41000000",
+    "idPath": [],
+    "k": "",
     "method": 0,
     "page": 1,
     "r": "",
@@ -319,6 +329,8 @@
     "col": "",
     "colTab": "",
     "keys": [
+      "",
+      "export",
       "sf probe 0;sf read 0x40007800 0x120000 0xc00000;bootx 0x40008000 - 0x41000000",
       "#​setenv ipaddr 192.168.30.66#",
       "#​setenv ipaddr 192.168.30.66uboot#",
@@ -327,7 +339,6 @@
       "osip",
       "crc",
       "crc32",
-      "",
       "of",
       "引脚",
       "dd",
@@ -340,7 +351,6 @@
       "exp",
       "8.8.8.",
       "echo 3",
-      "export",
       "内存",
       "是"
     ],
