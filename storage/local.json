@@ -7,6 +7,12 @@
       "top": 247,
       "width": 368
     },
+    "dialog-search": {
+      "height": 743,
+      "left": 132,
+      "top": 41,
+      "width": 1061
+    },
     "dialog-searchtype": {
       "height": 576,
       "left": 543,
@@ -53,9 +59,6 @@
     },
     "20250415202526-cv9wg2e": {
       "endId": "20250427182152-kjuapwq",
-      "focusEnd": 131,
-      "focusId": "20250415203211-rodyqg8",
-      "focusStart": 87,
       "rootId": "20250415202526-cv9wg2e",
       "scrollTop": 267,
       "startId": "20250415202526-fymwnhh"
@@ -66,16 +69,16 @@
       "focusId": "20250603095621-iqs8aq7",
       "focusStart": 78,
       "rootId": "20250415202548-d6wbeb6",
-      "scrollTop": 1600,
+      "scrollTop": 566,
       "startId": "20250415202548-drqz7dw"
     },
     "20250415202821-ebmk4hh": {
       "endId": "20250506165344-w185cmi",
-      "focusEnd": 50,
-      "focusId": "20250415203009-mlgwb7p",
-      "focusStart": 25,
+      "focusEnd": 72,
+      "focusId": "20250415202839-aikuhgg",
+      "focusStart": 0,
       "rootId": "20250415202821-ebmk4hh",
-      "scrollTop": 800,
+      "scrollTop": 0,
       "startId": "20250415202821-sih3k1v"
     },
     "20250415203235-x9fqtuu": {
@@ -89,12 +92,18 @@
     },
     "20250421161834-cbj7t4x": {
       "endId": "20250421161924-qolk65y",
+      "focusEnd": 0,
+      "focusId": "20250421161905-vlc52z7",
+      "focusStart": 0,
       "rootId": "20250421161834-cbj7t4x",
       "scrollTop": 0,
       "startId": "20250421161905-vlc52z7"
     },
     "20250425102213-tvujpl8": {
       "endId": "20250425102237-e59fjay",
+      "focusEnd": 0,
+      "focusId": "20250425102213-erlas71",
+      "focusStart": 0,
       "rootId": "20250425102213-tvujpl8",
       "scrollTop": 0,
       "startId": "20250425102213-erlas71"
@@ -119,11 +128,8 @@
     },
     "20250430111414-lz2uu61": {
       "endId": "20250606140526-ljwhml0",
-      "focusEnd": 279,
-      "focusId": "20250603165644-45dwtfa",
-      "focusStart": 279,
       "rootId": "20250430111414-lz2uu61",
-      "scrollTop": 0,
+      "scrollTop": 800,
       "startId": "20250430111414-u0wtr77"
     },
     "20250430135627-ergqdb2": {
@@ -155,9 +161,9 @@
     },
     "20250506114013-1oe3tdt": {
       "endId": "20250506114023-0gas7mz",
-      "focusEnd": 5,
+      "focusEnd": 0,
       "focusId": "20250506114013-i946jq7",
-      "focusStart": 5,
+      "focusStart": 0,
       "rootId": "20250506114013-1oe3tdt",
       "scrollTop": 0,
       "startId": "20250506114013-i946jq7"
@@ -182,52 +188,64 @@
     },
     "20250526153143-qmt5w8b": {
       "endId": "20250526153213-uypyeza",
-      "focusEnd": 0,
-      "focusId": "20250526153143-ps4jaai",
-      "focusStart": 0,
       "rootId": "20250526153143-qmt5w8b",
       "scrollTop": 0,
       "startId": "20250526153143-ps4jaai"
     },
     "20250527175746-1dvx7su": {
-      "endId": "20250527175819-ts6tqoi",
-      "focusEnd": 8,
-      "focusId": "20250527175752-1mitzwf",
-      "focusStart": 8,
+      "endId": "20250610095037-vnj921k",
       "rootId": "20250527175746-1dvx7su",
       "scrollTop": 0,
       "startId": "20250527175752-1mitzwf"
+    },
+    "20250604144344-jocgqqp": {
+      "endId": "20250605170344-5837unm",
+      "focusEnd": 240,
+      "focusId": "20250604155945-t89w0jo",
+      "focusStart": 145,
+      "rootId": "20250604144344-jocgqqp",
+      "scrollTop": 0,
+      "startId": "20250604155931-gy9x2mw"
+    },
+    "20250604153151-9z46sfa": {
+      "endId": "20250604153240-61fggrq",
+      "focusEnd": 8,
+      "focusId": "20250604153214-1sbea55",
+      "focusStart": 8,
+      "rootId": "20250604153151-9z46sfa",
+      "scrollTop": 0,
+      "startId": "20250604153214-1sbea55"
+    },
+    "20250605143635-mneut2m": {
+      "endId": "20250605143713-thfwnhd",
+      "rootId": "20250605143635-mneut2m",
+      "scrollTop": 0,
+      "startId": "20250605143713-thfwnhd"
+    },
+    "20250614180207-gdvmm6z": {
+      "endId": "20250614180316-joanori",
+      "focusEnd": 4,
+      "focusId": "20250614180350-eyrmqt4",
+      "focusStart": 4,
+      "rootId": "20250614180207-gdvmm6z",
+      "scrollTop": 528,
+      "startId": "20250614180207-mf42wb3"
+    },
+    "20250618150515-kw3n30o": {
+      "endId": "20250618150645-a99fqvf",
+      "focusEnd": 8,
+      "focusId": "20250618150622-tfmwx5x",
+      "focusStart": 8,
+      "rootId": "20250618150515-kw3n30o",
+      "scrollTop": 0,
+      "startId": "20250618150544-h060hus"
     }
   },
   "local-filespaths": [
     {
-      "notebookId": "20250402143433-xostob0",
-      "openPaths": [
-        "/20250614180207-gdvmm6z.sy"
-      ]
-    },
-    {
-      "notebookId": "20250415202522-17y9ji7",
-      "openPaths": [
-        "/20250428160152-p316k51.sy"
-      ]
-    },
-    {
       "notebookId": "20250415202817-tti0zln",
       "openPaths": [
         "/20250527175746-1dvx7su.sy"
-      ]
-    },
-    {
-      "notebookId": "20250421161831-4yd9i2x",
-      "openPaths": [
-        "/20250421161834-cbj7t4x.sy"
-      ]
-    },
-    {
-      "notebookId": "20250425103239-6xyrju6",
-      "openPaths": [
-        "/20250526153143-qmt5w8b.sy"
       ]
     },
     {
@@ -245,7 +263,19 @@
     {
       "notebookId": "20250604144341-75bpbp8",
       "openPaths": [
-        "/20250605143635-mneut2m.sy"
+        "/20250623100223-x92428j.sy"
+      ]
+    },
+    {
+      "notebookId": "20250618150512-gezubzl",
+      "openPaths": [
+        "/20250619101530-igy6isp.sy"
+      ]
+    },
+    {
+      "notebookId": "20250623101627-x25cf1d",
+      "openPaths": [
+        "/20250623101629-g819bt3.sy"
       ]
     }
   ],
@@ -269,10 +299,12 @@
   },
   "local-searchdata": {
     "group": 0,
-    "hPath": "",
+    "hPath": "lib/openssl",
     "hasReplace": false,
-    "idPath": [],
-    "k": "",
+    "idPath": [
+      "20250618150512-gezubzl/20250618150515-kw3n30o.sy"
+    ],
+    "k": "ld_lib",
     "method": 0,
     "page": 1,
     "r": "",
@@ -329,6 +361,8 @@
     "col": "",
     "colTab": "",
     "keys": [
+      "ld_lib",
+      "ffmpeg",
       "",
       "export",
       "sf probe 0;sf read 0x40007800 0x120000 0xc00000;bootx 0x40008000 - 0x41000000",
