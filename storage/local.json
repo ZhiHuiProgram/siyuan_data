@@ -74,15 +74,15 @@
     },
     "20250415202821-ebmk4hh": {
       "endId": "20250506165344-w185cmi",
-      "focusEnd": 72,
-      "focusId": "20250415202839-aikuhgg",
-      "focusStart": 0,
+      "focusEnd": 428,
+      "focusId": "20250430111700-7q3ce25",
+      "focusStart": 34,
       "rootId": "20250415202821-ebmk4hh",
-      "scrollTop": 0,
+      "scrollTop": 1333,
       "startId": "20250415202821-sih3k1v"
     },
     "20250415203235-x9fqtuu": {
-      "endId": "20250421161535-xoyrc9g",
+      "endId": "20250628103030-rd23yu2",
       "focusEnd": 0,
       "focusId": "20250415203235-hv41rvm",
       "focusStart": 0,
@@ -101,9 +101,6 @@
     },
     "20250425102213-tvujpl8": {
       "endId": "20250425102237-e59fjay",
-      "focusEnd": 0,
-      "focusId": "20250425102213-erlas71",
-      "focusStart": 0,
       "rootId": "20250425102213-tvujpl8",
       "scrollTop": 0,
       "startId": "20250425102213-erlas71"
@@ -128,8 +125,11 @@
     },
     "20250430111414-lz2uu61": {
       "endId": "20250606140526-ljwhml0",
+      "focusEnd": 0,
+      "focusId": "20250430111414-u0wtr77",
+      "focusStart": 0,
       "rootId": "20250430111414-lz2uu61",
-      "scrollTop": 800,
+      "scrollTop": 0,
       "startId": "20250430111414-u0wtr77"
     },
     "20250430135627-ergqdb2": {
@@ -170,11 +170,11 @@
     },
     "20250508161508-ztfnxiw": {
       "endId": "20250510151548-ym5g7ph",
-      "focusEnd": 4,
-      "focusId": "20250510151533-48vo7j7",
-      "focusStart": 4,
+      "focusEnd": 0,
+      "focusId": "20250510151548-ym5g7ph",
+      "focusStart": 0,
       "rootId": "20250508161508-ztfnxiw",
-      "scrollTop": 0,
+      "scrollTop": 267,
       "startId": "20250508161508-8a9vvkm"
     },
     "20250520104929-tb3e4ic": {
@@ -199,13 +199,13 @@
       "startId": "20250527175752-1mitzwf"
     },
     "20250604144344-jocgqqp": {
-      "endId": "20250605170344-5837unm",
+      "endId": "20250626143847-1ouhe5c",
       "focusEnd": 240,
       "focusId": "20250604155945-t89w0jo",
       "focusStart": 145,
       "rootId": "20250604144344-jocgqqp",
       "scrollTop": 0,
-      "startId": "20250604155931-gy9x2mw"
+      "startId": "20250604155939-rn61mum"
     },
     "20250604153151-9z46sfa": {
       "endId": "20250604153240-61fggrq",
@@ -218,6 +218,9 @@
     },
     "20250605143635-mneut2m": {
       "endId": "20250605143713-thfwnhd",
+      "focusEnd": 8,
+      "focusId": "20250605143713-thfwnhd",
+      "focusStart": 8,
       "rootId": "20250605143635-mneut2m",
       "scrollTop": 0,
       "startId": "20250605143713-thfwnhd"
@@ -228,24 +231,66 @@
       "focusId": "20250614180350-eyrmqt4",
       "focusStart": 4,
       "rootId": "20250614180207-gdvmm6z",
-      "scrollTop": 528,
+      "scrollTop": 0,
       "startId": "20250614180207-mf42wb3"
     },
     "20250618150515-kw3n30o": {
       "endId": "20250618150645-a99fqvf",
-      "focusEnd": 8,
-      "focusId": "20250618150622-tfmwx5x",
-      "focusStart": 8,
       "rootId": "20250618150515-kw3n30o",
       "scrollTop": 0,
       "startId": "20250618150544-h060hus"
+    },
+    "20250619101530-igy6isp": {
+      "endId": "20250624085004-ppoyz4g",
+      "focusEnd": 120,
+      "focusId": "20250624085004-ppoyz4g",
+      "focusStart": 120,
+      "rootId": "20250619101530-igy6isp",
+      "scrollTop": 0,
+      "startId": "20250619101618-e2qbi7j"
+    },
+    "20250623100223-x92428j": {
+      "endId": "20250623111256-noxfafv",
+      "focusEnd": 196,
+      "focusId": "20250623111258-xy1fjfb",
+      "focusStart": 99,
+      "rootId": "20250623100223-x92428j",
+      "scrollTop": 0,
+      "startId": "20250623111258-xy1fjfb"
+    },
+    "20250623101629-g819bt3": {
+      "endId": "20250623101905-wfkyla9",
+      "focusEnd": 0,
+      "focusId": "20250623101629-49xx0pl",
+      "focusStart": 0,
+      "rootId": "20250623101629-g819bt3",
+      "scrollTop": 0,
+      "startId": "20250623101629-49xx0pl"
     }
   },
   "local-filespaths": [
     {
+      "notebookId": "20250402143433-xostob0",
+      "openPaths": [
+        "/20250614180207-gdvmm6z.sy"
+      ]
+    },
+    {
+      "notebookId": "20250415202522-17y9ji7",
+      "openPaths": [
+        "/20250428160152-p316k51.sy"
+      ]
+    },
+    {
       "notebookId": "20250415202817-tti0zln",
       "openPaths": [
         "/20250527175746-1dvx7su.sy"
+      ]
+    },
+    {
+      "notebookId": "20250425103239-6xyrju6",
+      "openPaths": [
+        "/20250526153143-qmt5w8b.sy"
       ]
     },
     {
@@ -299,12 +344,10 @@
   },
   "local-searchdata": {
     "group": 0,
-    "hPath": "lib/openssl",
+    "hPath": "",
     "hasReplace": false,
-    "idPath": [
-      "20250618150512-gezubzl/20250618150515-kw3n30o.sy"
-    ],
-    "k": "ld_lib",
+    "idPath": [],
+    "k": "abc",
     "method": 0,
     "page": 1,
     "r": "",
@@ -361,6 +404,8 @@
     "col": "",
     "colTab": "",
     "keys": [
+      "abc",
+      "d",
       "ld_lib",
       "ffmpeg",
       "",
