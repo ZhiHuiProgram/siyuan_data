@@ -129,10 +129,10 @@
     "20250430111414-lz2uu61": {
       "endId": "20250606140526-ljwhml0",
       "focusEnd": 0,
-      "focusId": "20250430111414-u0wtr77",
+      "focusId": "20250606140526-ljwhml0",
       "focusStart": 0,
       "rootId": "20250430111414-lz2uu61",
-      "scrollTop": 0,
+      "scrollTop": 956,
       "startId": "20250430111414-u0wtr77"
     },
     "20250430135627-ergqdb2": {
@@ -173,9 +173,9 @@
     },
     "20250508161508-ztfnxiw": {
       "endId": "20250510151548-ym5g7ph",
-      "focusEnd": 0,
-      "focusId": "20250510151548-ym5g7ph",
-      "focusStart": 0,
+      "focusEnd": 44,
+      "focusId": "20250510151533-48vo7j7",
+      "focusStart": 44,
       "rootId": "20250508161508-ztfnxiw",
       "scrollTop": 267,
       "startId": "20250508161508-8a9vvkm"
@@ -278,6 +278,15 @@
       "rootId": "20250630113732-rjbmhm2",
       "scrollTop": 0,
       "startId": "20250630114521-adsdpr3"
+    },
+    "20250712180500-84kg2gm": {
+      "endId": "20250717111811-bbdwv6f",
+      "focusEnd": 0,
+      "focusId": "20250712180717-hfztps1",
+      "focusStart": 0,
+      "rootId": "20250712180500-84kg2gm",
+      "scrollTop": 744,
+      "startId": "20250712180500-rdwv7cp"
     }
   },
   "local-filespaths": [
@@ -324,12 +333,15 @@
     "sideWidth": "256px",
     "type": 0
   },
+  "local-plugin-docks": {
+    "siyuan-plugin-picture-library": {}
+  },
   "local-searchdata": {
     "group": 0,
     "hPath": "",
     "hasReplace": false,
     "idPath": [],
-    "k": "du",
+    "k": "crc",
     "method": 0,
     "page": 1,
     "r": "",
@@ -386,6 +398,7 @@
     "col": "",
     "colTab": "",
     "keys": [
+      "crc",
       "du",
       "nfs",
       "tree",
@@ -403,7 +416,6 @@
       "8.8",
       "pip",
       "osip",
-      "crc",
       "crc32",
       "of",
       "引脚",
