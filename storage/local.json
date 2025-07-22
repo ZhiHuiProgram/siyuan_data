@@ -77,11 +77,11 @@
     },
     "20250415202821-ebmk4hh": {
       "endId": "20250506165344-w185cmi",
-      "focusEnd": 7,
-      "focusId": "20250419163911-y8x6b28",
-      "focusStart": 7,
+      "focusEnd": 24,
+      "focusId": "20250421161542-r316jwp",
+      "focusStart": 24,
       "rootId": "20250415202821-ebmk4hh",
-      "scrollTop": 1600,
+      "scrollTop": 267,
       "startId": "20250415202821-sih3k1v"
     },
     "20250415203235-x9fqtuu": {
@@ -101,9 +101,9 @@
     },
     "20250425102213-tvujpl8": {
       "endId": "20250425102237-e59fjay",
-      "focusEnd": 0,
+      "focusEnd": 9,
       "focusId": "20250425102213-erlas71",
-      "focusStart": 0,
+      "focusStart": 9,
       "rootId": "20250425102213-tvujpl8",
       "scrollTop": 0,
       "startId": "20250425102213-erlas71"
@@ -132,7 +132,7 @@
       "focusId": "20250606140526-ljwhml0",
       "focusStart": 0,
       "rootId": "20250430111414-lz2uu61",
-      "scrollTop": 956,
+      "scrollTop": 751,
       "startId": "20250430111414-u0wtr77"
     },
     "20250430135627-ergqdb2": {
@@ -280,12 +280,12 @@
       "startId": "20250630114521-adsdpr3"
     },
     "20250712180500-84kg2gm": {
-      "endId": "20250717111811-bbdwv6f",
+      "endId": "20250721183617-fq72kr2",
       "focusEnd": 0,
-      "focusId": "20250712180717-hfztps1",
+      "focusId": "20250721183615-h58xdx1",
       "focusStart": 0,
       "rootId": "20250712180500-84kg2gm",
-      "scrollTop": 744,
+      "scrollTop": 1261,
       "startId": "20250712180500-rdwv7cp"
     }
   },
@@ -294,6 +294,12 @@
       "notebookId": "20250402143433-xostob0",
       "openPaths": [
         "/20250712180500-84kg2gm.sy"
+      ]
+    },
+    {
+      "notebookId": "20250415202522-17y9ji7",
+      "openPaths": [
+        "/20250428160152-p316k51.sy"
       ]
     },
     {
@@ -306,6 +312,12 @@
       "notebookId": "20250430135625-xaf7wgm",
       "openPaths": [
         "/20250508161508-ztfnxiw.sy"
+      ]
+    },
+    {
+      "notebookId": "20250604144341-75bpbp8",
+      "openPaths": [
+        "/20250623100223-x92428j.sy"
       ]
     },
     {
@@ -341,7 +353,7 @@
     "hPath": "",
     "hasReplace": false,
     "idPath": [],
-    "k": "crc",
+    "k": "crc32",
     "method": 0,
     "page": 1,
     "r": "",
@@ -398,6 +410,8 @@
     "col": "",
     "colTab": "",
     "keys": [
+      "crc32",
+      "动态",
       "crc",
       "du",
       "nfs",
@@ -416,13 +430,11 @@
       "8.8",
       "pip",
       "osip",
-      "crc32",
       "of",
       "引脚",
       "dd",
       "lso",
       "只读",
-      "动态",
       "库",
       "文件夹",
       "文件夹大小",
