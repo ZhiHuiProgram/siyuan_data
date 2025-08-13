@@ -63,7 +63,7 @@
       "focusId": "20250415202526-fymwnhh",
       "focusStart": 0,
       "rootId": "20250415202526-cv9wg2e",
-      "scrollTop": 534,
+      "scrollTop": 1067,
       "startId": "20250415202526-fymwnhh"
     },
     "20250415202548-d6wbeb6": {
@@ -119,9 +119,6 @@
     },
     "20250428160152-p316k51": {
       "endId": "20250428160246-m77gmj9",
-      "focusEnd": 0,
-      "focusId": "20250428160152-eae2ims",
-      "focusStart": 0,
       "rootId": "20250428160152-p316k51",
       "scrollTop": 0,
       "startId": "20250428160152-eae2ims"
@@ -200,20 +197,17 @@
     },
     "20250527175746-1dvx7su": {
       "endId": "20250610095037-vnj921k",
-      "focusEnd": 8,
-      "focusId": "20250527175752-1mitzwf",
-      "focusStart": 8,
       "rootId": "20250527175746-1dvx7su",
       "scrollTop": 0,
       "startId": "20250527175752-1mitzwf"
     },
     "20250604144344-jocgqqp": {
       "endId": "20250626143847-1ouhe5c",
-      "focusEnd": 430,
-      "focusId": "20250626134709-91gdmcx",
-      "focusStart": 430,
+      "focusEnd": 66,
+      "focusId": "20250623103358-3ri1rao",
+      "focusStart": 66,
       "rootId": "20250604144344-jocgqqp",
-      "scrollTop": 466,
+      "scrollTop": 0,
       "startId": "20250604155939-rn61mum"
     },
     "20250604153151-9z46sfa": {
@@ -227,9 +221,6 @@
     },
     "20250605143635-mneut2m": {
       "endId": "20250605143713-thfwnhd",
-      "focusEnd": 8,
-      "focusId": "20250605143713-thfwnhd",
-      "focusStart": 8,
       "rootId": "20250605143635-mneut2m",
       "scrollTop": 0,
       "startId": "20250605143713-thfwnhd"
@@ -309,6 +300,12 @@
       ]
     },
     {
+      "notebookId": "20250425103239-6xyrju6",
+      "openPaths": [
+        "/20250526153143-qmt5w8b.sy"
+      ]
+    },
+    {
       "notebookId": "20250430135625-xaf7wgm",
       "openPaths": [
         "/20250508161508-ztfnxiw.sy"
@@ -350,10 +347,12 @@
   },
   "local-searchdata": {
     "group": 0,
-    "hPath": "",
+    "hPath": "富瀚/烧录",
     "hasReplace": false,
-    "idPath": [],
-    "k": "crc32",
+    "idPath": [
+      "20250604144341-75bpbp8/20250604144344-jocgqqp.sy"
+    ],
+    "k": "设备号",
     "method": 0,
     "page": 1,
     "r": "",
@@ -410,6 +409,7 @@
     "col": "",
     "colTab": "",
     "keys": [
+      "设备号",
       "crc32",
       "动态",
       "crc",
