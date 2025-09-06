@@ -77,9 +77,6 @@
     },
     "20250415202821-ebmk4hh": {
       "endId": "20250506165344-w185cmi",
-      "focusEnd": 24,
-      "focusId": "20250421161542-r316jwp",
-      "focusStart": 24,
       "rootId": "20250415202821-ebmk4hh",
       "scrollTop": 267,
       "startId": "20250415202821-sih3k1v"
@@ -125,9 +122,6 @@
     },
     "20250430111414-lz2uu61": {
       "endId": "20250606140526-ljwhml0",
-      "focusEnd": 0,
-      "focusId": "20250606140526-ljwhml0",
-      "focusStart": 0,
       "rootId": "20250430111414-lz2uu61",
       "scrollTop": 751,
       "startId": "20250430111414-u0wtr77"
@@ -187,10 +181,7 @@
       "startId": "20250520104929-ftjdelw"
     },
     "20250526153143-qmt5w8b": {
-      "endId": "20250526153213-uypyeza",
-      "focusEnd": 0,
-      "focusId": "20250526153143-ps4jaai",
-      "focusStart": 0,
+      "endId": "20250731182834-jh1fpoo",
       "rootId": "20250526153143-qmt5w8b",
       "scrollTop": 0,
       "startId": "20250526153143-ps4jaai"
@@ -254,9 +245,6 @@
     },
     "20250623101629-g819bt3": {
       "endId": "20250623101905-wfkyla9",
-      "focusEnd": 0,
-      "focusId": "20250623101629-49xx0pl",
-      "focusStart": 0,
       "rootId": "20250623101629-g819bt3",
       "scrollTop": 0,
       "startId": "20250623101629-49xx0pl"
@@ -278,61 +266,41 @@
       "rootId": "20250712180500-84kg2gm",
       "scrollTop": 1261,
       "startId": "20250712180500-rdwv7cp"
+    },
+    "20250901133606-0pqhl1a": {
+      "endId": "20250901134714-wqxrbut",
+      "rootId": "20250901133606-0pqhl1a",
+      "scrollTop": 1867,
+      "startId": "20250901133606-obwqan3"
+    },
+    "20250902105105-feavjdy": {
+      "endId": "20250902105206-mbt9jts",
+      "focusEnd": 20,
+      "focusId": "20250902105130-8wgf2a9",
+      "focusStart": 0,
+      "rootId": "20250902105105-feavjdy",
+      "scrollTop": 0,
+      "startId": "20250902105105-fdnxa6n"
     }
   },
   "local-filespaths": [
     {
-      "notebookId": "20250402143433-xostob0",
+      "notebookId": "20250421161831-4yd9i2x",
       "openPaths": [
-        "/20250712180500-84kg2gm.sy"
-      ]
-    },
-    {
-      "notebookId": "20250415202522-17y9ji7",
-      "openPaths": [
-        "/20250428160152-p316k51.sy"
-      ]
-    },
-    {
-      "notebookId": "20250415202817-tti0zln",
-      "openPaths": [
-        "/20250527175746-1dvx7su.sy"
-      ]
-    },
-    {
-      "notebookId": "20250425103239-6xyrju6",
-      "openPaths": [
-        "/20250526153143-qmt5w8b.sy"
-      ]
-    },
-    {
-      "notebookId": "20250430135625-xaf7wgm",
-      "openPaths": [
-        "/20250508161508-ztfnxiw.sy"
-      ]
-    },
-    {
-      "notebookId": "20250604144341-75bpbp8",
-      "openPaths": [
-        "/20250623100223-x92428j.sy"
-      ]
-    },
-    {
-      "notebookId": "20250618150512-gezubzl",
-      "openPaths": [
-        "/20250630113732-rjbmhm2.sy"
+        "/20250906092022-mktvcon/20250906162852-3rm8d8h.sy",
+        "/20250421161834-cbj7t4x/20250906092037-4i0vz04.sy"
       ]
     }
   ],
   "local-fontstyles": [
+    "clear​undefined",
+    "backgroundColor​var(--b3-font-background8)",
     "fontSize​16px",
     "fontSize​15px",
     "fontSize​13px",
     "fontSize​9px",
     "fontSize​20px",
-    "fontSize​21px",
-    "fontSize​23px",
-    "fontSize​28px"
+    "fontSize​21px"
   ],
   "local-history": {
     "notebookId": "%",
@@ -347,12 +315,10 @@
   },
   "local-searchdata": {
     "group": 0,
-    "hPath": "富瀚/烧录",
+    "hPath": "",
     "hasReplace": false,
-    "idPath": [
-      "20250604144341-75bpbp8/20250604144344-jocgqqp.sy"
-    ],
-    "k": "设备号",
+    "idPath": [],
+    "k": "npu",
     "method": 0,
     "page": 1,
     "r": "",
@@ -409,10 +375,16 @@
     "col": "",
     "colTab": "",
     "keys": [
+      "npu",
+      "none_uboot_flash_combined",
+      "flash_combined",
+      "mkfs",
+      "jffs2",
+      "config",
+      "crc",
       "设备号",
       "crc32",
       "动态",
-      "crc",
       "du",
       "nfs",
       "tree",
