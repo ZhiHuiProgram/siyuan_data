@@ -63,7 +63,7 @@
       "focusId": "20250415202526-fymwnhh",
       "focusStart": 0,
       "rootId": "20250415202526-cv9wg2e",
-      "scrollTop": 1067,
+      "scrollTop": 0,
       "startId": "20250415202526-fymwnhh"
     },
     "20250415202548-d6wbeb6": {
@@ -77,15 +77,15 @@
     },
     "20250415202821-ebmk4hh": {
       "endId": "20250506165344-w185cmi",
+      "focusEnd": 0,
+      "focusId": "20250415202821-sih3k1v",
+      "focusStart": 0,
       "rootId": "20250415202821-ebmk4hh",
       "scrollTop": 267,
       "startId": "20250415202821-sih3k1v"
     },
     "20250415203235-x9fqtuu": {
-      "endId": "20250628103030-rd23yu2",
-      "focusEnd": 0,
-      "focusId": "20250415203235-hv41rvm",
-      "focusStart": 0,
+      "endId": "20250712105820-tbyplk4",
       "rootId": "20250415203235-x9fqtuu",
       "scrollTop": 0,
       "startId": "20250415203235-hv41rvm"
@@ -94,7 +94,7 @@
       "endId": "20250421161924-qolk65y",
       "rootId": "20250421161834-cbj7t4x",
       "scrollTop": 0,
-      "startId": "20250421161905-vlc52z7"
+      "startId": "20250421161924-qolk65y"
     },
     "20250425102213-tvujpl8": {
       "endId": "20250425102237-e59fjay",
@@ -116,6 +116,9 @@
     },
     "20250428160152-p316k51": {
       "endId": "20250428160246-m77gmj9",
+      "focusEnd": 0,
+      "focusId": "20250428160152-eae2ims",
+      "focusStart": 0,
       "rootId": "20250428160152-p316k51",
       "scrollTop": 0,
       "startId": "20250428160152-eae2ims"
@@ -123,7 +126,7 @@
     "20250430111414-lz2uu61": {
       "endId": "20250606140526-ljwhml0",
       "rootId": "20250430111414-lz2uu61",
-      "scrollTop": 751,
+      "scrollTop": 533,
       "startId": "20250430111414-u0wtr77"
     },
     "20250430135627-ergqdb2": {
@@ -155,9 +158,6 @@
     },
     "20250506114013-1oe3tdt": {
       "endId": "20250506114023-0gas7mz",
-      "focusEnd": 0,
-      "focusId": "20250506114013-i946jq7",
-      "focusStart": 0,
       "rootId": "20250506114013-1oe3tdt",
       "scrollTop": 0,
       "startId": "20250506114013-i946jq7"
@@ -173,11 +173,11 @@
     },
     "20250520104929-tb3e4ic": {
       "endId": "20250520114831-a51u04o",
-      "focusEnd": 579,
+      "focusEnd": 4,
       "focusId": "20250520104956-jexiczt",
-      "focusStart": 499,
+      "focusStart": 4,
       "rootId": "20250520104929-tb3e4ic",
-      "scrollTop": 275,
+      "scrollTop": 0,
       "startId": "20250520104929-ftjdelw"
     },
     "20250526153143-qmt5w8b": {
@@ -188,30 +188,30 @@
     },
     "20250527175746-1dvx7su": {
       "endId": "20250610095037-vnj921k",
+      "focusEnd": 8,
+      "focusId": "20250527175752-1mitzwf",
+      "focusStart": 8,
       "rootId": "20250527175746-1dvx7su",
       "scrollTop": 0,
       "startId": "20250527175752-1mitzwf"
     },
     "20250604144344-jocgqqp": {
       "endId": "20250626143847-1ouhe5c",
-      "focusEnd": 66,
-      "focusId": "20250623103358-3ri1rao",
-      "focusStart": 66,
       "rootId": "20250604144344-jocgqqp",
       "scrollTop": 0,
       "startId": "20250604155939-rn61mum"
     },
     "20250604153151-9z46sfa": {
-      "endId": "20250604153240-61fggrq",
-      "focusEnd": 8,
-      "focusId": "20250604153214-1sbea55",
-      "focusStart": 8,
+      "endId": "20250912163355-oo63il4",
       "rootId": "20250604153151-9z46sfa",
       "scrollTop": 0,
       "startId": "20250604153214-1sbea55"
     },
     "20250605143635-mneut2m": {
       "endId": "20250605143713-thfwnhd",
+      "focusEnd": 8,
+      "focusId": "20250605143713-thfwnhd",
+      "focusStart": 8,
       "rootId": "20250605143635-mneut2m",
       "scrollTop": 0,
       "startId": "20250605143713-thfwnhd"
@@ -238,10 +238,10 @@
       "startId": "20250619101618-e2qbi7j"
     },
     "20250623100223-x92428j": {
-      "endId": "20250623111256-noxfafv",
+      "endId": "20250722133121-4jkrsfx",
       "rootId": "20250623100223-x92428j",
       "scrollTop": 0,
-      "startId": "20250623111258-xy1fjfb"
+      "startId": "20250721183121-5almhql"
     },
     "20250623101629-g819bt3": {
       "endId": "20250623101905-wfkyla9",
@@ -275,20 +275,83 @@
     },
     "20250902105105-feavjdy": {
       "endId": "20250902105206-mbt9jts",
-      "focusEnd": 20,
-      "focusId": "20250902105130-8wgf2a9",
-      "focusStart": 0,
       "rootId": "20250902105105-feavjdy",
       "scrollTop": 0,
       "startId": "20250902105105-fdnxa6n"
+    },
+    "20250902140053-a36311t": {
+      "endId": "20250902140107-956ukei",
+      "rootId": "20250902140053-a36311t",
+      "scrollTop": 0,
+      "startId": "20250902140106-d5vzjqd"
+    },
+    "20250906092037-4i0vz04": {
+      "endId": "20250906092044-p32qfnd",
+      "rootId": "20250906092037-4i0vz04",
+      "scrollTop": 0,
+      "startId": "20250906092044-pcoa4jo"
+    },
+    "20250917100152-wmrx04s": {
+      "endId": "20250917100204-73emim4",
+      "focusEnd": 5,
+      "focusId": "20250917100204-73emim4",
+      "focusStart": 5,
+      "rootId": "20250917100152-wmrx04s",
+      "scrollTop": 0,
+      "startId": "20250917100152-hlvkwz5"
+    },
+    "20250917100221-uahmun2": {
+      "endId": "20250917101513-osovqy4",
+      "focusEnd": 0,
+      "focusId": "20250917101513-osovqy4",
+      "focusStart": 0,
+      "rootId": "20250917100221-uahmun2",
+      "scrollTop": 0,
+      "startId": "20250917100221-8lyxqao"
     }
   },
   "local-filespaths": [
     {
+      "notebookId": "20250415202522-17y9ji7",
+      "openPaths": [
+        "/20250917100152-wmrx04s.sy"
+      ]
+    },
+    {
+      "notebookId": "20250415202817-tti0zln",
+      "openPaths": [
+        "/20250527175746-1dvx7su.sy"
+      ]
+    },
+    {
       "notebookId": "20250421161831-4yd9i2x",
       "openPaths": [
-        "/20250906092022-mktvcon/20250906162852-3rm8d8h.sy",
+        "/20250906092022-mktvcon/20250911092521-u72q6pt.sy",
         "/20250421161834-cbj7t4x/20250906092037-4i0vz04.sy"
+      ]
+    },
+    {
+      "notebookId": "20250506114010-o3ziv6l",
+      "openPaths": [
+        "/20250917100221-uahmun2.sy"
+      ]
+    },
+    {
+      "notebookId": "20250604144341-75bpbp8",
+      "openPaths": [
+        "/20250623100223-x92428j.sy"
+      ]
+    },
+    {
+      "notebookId": "20250618150512-gezubzl",
+      "openPaths": [
+        "/20250630113732-rjbmhm2.sy"
+      ]
+    },
+    {
+      "notebookId": "20250902140050-9626gsa",
+      "openPaths": [
+        "/20250919144745-ghb6o3p.sy"
       ]
     }
   ],
@@ -318,7 +381,7 @@
     "hPath": "",
     "hasReplace": false,
     "idPath": [],
-    "k": "npu",
+    "k": "软",
     "method": 0,
     "page": 1,
     "r": "",
@@ -375,6 +438,13 @@
     "col": "",
     "colTab": "",
     "keys": [
+      "软",
+      "软连接",
+      "",
+      "ln",
+      "dd",
+      "DD",
+      "export",
       "npu",
       "none_uboot_flash_combined",
       "flash_combined",
@@ -394,8 +464,6 @@
       "d",
       "ld_lib",
       "ffmpeg",
-      "",
-      "export",
       "sf probe 0;sf read 0x40007800 0x120000 0xc00000;bootx 0x40008000 - 0x41000000",
       "#​setenv ipaddr 192.168.30.66#",
       "#​setenv ipaddr 192.168.30.66uboot#",
@@ -404,7 +472,6 @@
       "osip",
       "of",
       "引脚",
-      "dd",
       "lso",
       "只读",
       "库",
