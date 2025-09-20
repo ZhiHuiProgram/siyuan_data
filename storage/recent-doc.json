@@ -1,13 +1,58 @@
 [
   {
-    "rootID": "20250604144344-jocgqqp",
+    "rootID": "20250919144745-ghb6o3p",
     "icon": "",
-    "title": "烧录"
+    "title": "指令"
+  },
+  {
+    "rootID": "20250902140053-a36311t",
+    "icon": "",
+    "title": "固件打包"
   },
   {
     "rootID": "20250911092521-u72q6pt",
     "icon": "",
     "title": "数值类型"
+  },
+  {
+    "rootID": "20250906162852-3rm8d8h",
+    "icon": "",
+    "title": "关键字"
+  },
+  {
+    "rootID": "20250906092037-4i0vz04",
+    "icon": "",
+    "title": "API"
+  },
+  {
+    "rootID": "20250630113732-rjbmhm2",
+    "icon": "",
+    "title": "libjpeg libyuv"
+  },
+  {
+    "rootID": "20250421161834-cbj7t4x",
+    "icon": "",
+    "title": "C／C++"
+  },
+  {
+    "rootID": "20250604153151-9z46sfa",
+    "icon": "",
+    "title": "网络"
+  },
+  {
+    "rootID": "20250917100221-uahmun2",
+    "icon": "",
+    "title": "cursor"
+  },
+  {
+    "rootID": "20250604144344-jocgqqp",
+    "icon": "",
+    "title": "烧录"
+  },
+  {
+    "rootID": "20250605143635-mneut2m",
+    "icon": "",
+    "title": "gpio"
   },
   {
     "rootID": "20250906092022-mktvcon",
