@@ -1,5 +1,25 @@
 [
   {
+    "rootID": "20250919144745-ghb6o3p",
+    "icon": "",
+    "title": "指令"
+  },
+  {
+    "rootID": "20250902140053-a36311t",
+    "icon": "",
+    "title": "固件打包"
+  },
+  {
+    "rootID": "20250911092521-u72q6pt",
+    "icon": "",
+    "title": "数值类型"
+  },
+  {
+    "rootID": "20250906162852-3rm8d8h",
+    "icon": "",
+    "title": "关键字"
+  },
+  {
     "rootID": "20250906092037-4i0vz04",
     "icon": "",
     "title": "API"
@@ -25,16 +45,6 @@
     "title": "cursor"
   },
   {
-    "rootID": "20250919144745-ghb6o3p",
-    "icon": "",
-    "title": "指令"
-  },
-  {
-    "rootID": "20250902140053-a36311t",
-    "icon": "",
-    "title": "估计打包"
-  },
-  {
     "rootID": "20250604144344-jocgqqp",
     "icon": "",
     "title": "烧录"
@@ -43,16 +53,6 @@
     "rootID": "20250605143635-mneut2m",
     "icon": "",
     "title": "gpio"
-  },
-  {
-    "rootID": "20250906162852-3rm8d8h",
-    "icon": "",
-    "title": "关键字"
-  },
-  {
-    "rootID": "20250911092521-u72q6pt",
-    "icon": "",
-    "title": "数值类型"
   },
   {
     "rootID": "20250906092022-mktvcon",

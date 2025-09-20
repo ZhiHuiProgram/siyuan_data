@@ -3,8 +3,8 @@
   "local-dialogposition": {
     "dialog-emojis": {
       "height": 413,
-      "left": 86,
-      "top": 247,
+      "left": 104,
+      "top": 209,
       "width": 368
     },
     "dialog-search": {
@@ -281,6 +281,9 @@
     },
     "20250902140053-a36311t": {
       "endId": "20250902140107-956ukei",
+      "focusEnd": 0,
+      "focusId": "20250919144738-grqyaea",
+      "focusStart": 0,
       "rootId": "20250902140053-a36311t",
       "scrollTop": 0,
       "startId": "20250902140106-d5vzjqd"
@@ -302,12 +305,18 @@
     },
     "20250917100221-uahmun2": {
       "endId": "20250917101513-osovqy4",
-      "focusEnd": 0,
-      "focusId": "20250917101513-osovqy4",
-      "focusStart": 0,
       "rootId": "20250917100221-uahmun2",
       "scrollTop": 0,
       "startId": "20250917100221-8lyxqao"
+    },
+    "20250919144745-ghb6o3p": {
+      "endId": "20250919144805-pq7kd53",
+      "focusEnd": 71,
+      "focusId": "20250919144756-n3qlkui",
+      "focusStart": 8,
+      "rootId": "20250919144745-ghb6o3p",
+      "scrollTop": 0,
+      "startId": "20250919144745-hgri4bl"
     }
   },
   "local-filespaths": [
