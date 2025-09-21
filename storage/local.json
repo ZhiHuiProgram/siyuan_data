@@ -92,6 +92,9 @@
     },
     "20250421161834-cbj7t4x": {
       "endId": "20250421161924-qolk65y",
+      "focusEnd": 0,
+      "focusId": "20250421161924-qolk65y",
+      "focusStart": 0,
       "rootId": "20250421161834-cbj7t4x",
       "scrollTop": 0,
       "startId": "20250421161924-qolk65y"
@@ -290,6 +293,9 @@
     },
     "20250906092037-4i0vz04": {
       "endId": "20250906092044-p32qfnd",
+      "focusEnd": 0,
+      "focusId": "20250906092044-pcoa4jo",
+      "focusStart": 0,
       "rootId": "20250906092037-4i0vz04",
       "scrollTop": 0,
       "startId": "20250906092044-pcoa4jo"
@@ -321,6 +327,12 @@
   },
   "local-filespaths": [
     {
+      "notebookId": "20250402143433-xostob0",
+      "openPaths": [
+        "/20250902105105-feavjdy.sy"
+      ]
+    },
+    {
       "notebookId": "20250415202522-17y9ji7",
       "openPaths": [
         "/20250917100152-wmrx04s.sy"
@@ -335,7 +347,7 @@
     {
       "notebookId": "20250421161831-4yd9i2x",
       "openPaths": [
-        "/20250906092022-mktvcon/20250911092521-u72q6pt.sy",
+        "/20250906092022-mktvcon/20250920183554-unb39e1/20250911092521-u72q6pt.sy",
         "/20250421161834-cbj7t4x/20250906092037-4i0vz04.sy"
       ]
     },
