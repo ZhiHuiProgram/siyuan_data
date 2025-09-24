@@ -33,6 +33,27 @@
       "scrollTop": 0,
       "startId": "20250421161924-qolk65y"
     },
+    "20250430111414-lz2uu61": {
+      "endId": "20250606140526-ljwhml0",
+      "focusEnd": 0,
+      "focusId": "20250430111414-u0wtr77",
+      "focusStart": 0,
+      "rootId": "20250430111414-lz2uu61",
+      "scrollTop": 0,
+      "startId": "20250430111414-u0wtr77"
+    },
+    "20250430135627-ergqdb2": {
+      "endId": "20250430135646-wv25vo7",
+      "rootId": "20250430135627-ergqdb2",
+      "scrollTop": 0,
+      "startId": "20250430135627-fsemyrp"
+    },
+    "20250430140658-z0p2fu2": {
+      "endId": "20250714100806-hzqe678",
+      "rootId": "20250430140658-z0p2fu2",
+      "scrollTop": 0,
+      "startId": "20250430140658-4z0biad"
+    },
     "20250906092022-mktvcon": {
       "endId": "20250921115448-eedfa0f",
       "focusEnd": 0,
@@ -87,11 +108,20 @@
       "scrollTop": 0,
       "startId": "20250921101945-llwdz8v"
     },
+    "20250921101954-5gdzk2e": {
+      "endId": "20250921102007-gxb7hou",
+      "focusEnd": 201,
+      "focusId": "20250921102007-gxb7hou",
+      "focusStart": 201,
+      "rootId": "20250921101954-5gdzk2e",
+      "scrollTop": 300,
+      "startId": "20250921102007-mooy355"
+    },
     "20250921115805-iu1f91z": {
       "endId": "20250921130200-shyerdx",
-      "focusEnd": 1180,
+      "focusEnd": 8,
       "focusId": "20250921115956-7ebsp4x",
-      "focusStart": 1180,
+      "focusStart": 8,
       "rootId": "20250921115805-iu1f91z",
       "scrollTop": 616,
       "startId": "20250921115805-gpiwlqi"
@@ -104,6 +134,21 @@
       "rootId": "20250921171956-cqma37n",
       "scrollTop": 100,
       "startId": "20250921171956-gbigt66"
+    },
+    "20250921185801-mcvw4nv": {
+      "endId": "20250921190359-pb01oq9",
+      "focusEnd": 208,
+      "focusId": "20250921190359-pb01oq9",
+      "focusStart": 208,
+      "rootId": "20250921185801-mcvw4nv",
+      "scrollTop": 0,
+      "startId": "20250921185801-q2x2djz"
+    },
+    "20250923235225-wpx3ppa": {
+      "endId": "20250923235225-8spix7z",
+      "rootId": "20250923235225-wpx3ppa",
+      "scrollTop": 14,
+      "startId": "20250923235225-8spix7z"
     }
   },
   "local-filespaths": [
@@ -129,7 +174,7 @@
       "notebookId": "20250421161831-4yd9i2x",
       "openPaths": [
         "/20250906092022-mktvcon/20250920183554-unb39e1/20250911092521-u72q6pt.sy",
-        "/20250421161834-cbj7t4x/20250921101945-j5uzem4/20250922224418-097sq40.sy"
+        "/20250421161834-cbj7t4x/20250921101945-j5uzem4/20250924221933-j1kfucu.sy"
       ]
     },
     {
@@ -186,12 +231,15 @@
   },
   "local-searchdata": {
     "group": 0,
-    "hPath": "",
+    "hPath": "虚拟机/WSL",
     "hasReplace": false,
-    "idPath": [],
-    "k": "软",
+    "idPath": [
+      "20250415202817-tti0zln/20250430111414-lz2uu61.sy"
+    ],
+    "k": "cursor",
     "method": 0,
     "page": 1,
+    "query": "cursor",
     "r": "",
     "removed": true,
     "replaceTypes": {
@@ -246,6 +294,7 @@
     "col": "",
     "colTab": "",
     "keys": [
+      "cursor",
       "软",
       "软连接",
       "",
