@@ -27,26 +27,41 @@
     "20250430143813-7s4w4uh": {
       "endId": "20250922213125-riqxmaw",
       "rootId": "20250430143813-7s4w4uh",
-      "scrollTop": 0,
+      "scrollTop": 267,
       "startId": "20250430143813-1nob9uw"
     },
-    "20250906162852-3rm8d8h": {
-      "endId": "20250926182459-fpr31g2",
-      "focusEnd": 0,
-      "focusId": "20250906162852-b32ubh6",
-      "focusStart": 0,
-      "rootId": "20250906162852-3rm8d8h",
+    "20250508161508-ztfnxiw": {
+      "endId": "20250510151548-ym5g7ph",
+      "rootId": "20250508161508-ztfnxiw",
       "scrollTop": 0,
-      "startId": "20250906162852-b32ubh6"
+      "startId": "20250508161508-8a9vvkm"
     },
-    "20250925192758-8t9f9mo": {
-      "endId": "20250926180456-hss33v6",
-      "focusEnd": 154,
-      "focusId": "20250926174222-a0nobwb",
-      "focusStart": 154,
-      "rootId": "20250925192758-8t9f9mo",
-      "scrollTop": 1160.6666259765625,
-      "startId": "20250925192835-ecdq0t3"
+    "20250902105105-feavjdy": {
+      "endId": "20250927183056-5m3aqnx",
+      "focusEnd": 4,
+      "focusId": "20250927183801-k469eyw",
+      "focusStart": 4,
+      "rootId": "20250902105105-feavjdy",
+      "scrollTop": 1688,
+      "startId": "20250902105105-fdnxa6n"
+    },
+    "20250906092022-mktvcon": {
+      "endId": "20250921115448-eedfa0f",
+      "rootId": "20250906092022-mktvcon",
+      "scrollTop": 0,
+      "startId": "20250906092704-jlp155c"
+    },
+    "20250927111041-36zprhg": {
+      "endId": "20250927155215-gybspmy",
+      "rootId": "20250927111041-36zprhg",
+      "scrollTop": 1333,
+      "startId": "20250927113825-2z6w26r"
+    },
+    "20250928094106-b9a7xr3": {
+      "endId": "20250928110830-xag39ei",
+      "rootId": "20250928094106-b9a7xr3",
+      "scrollTop": 998,
+      "startId": "20250928094106-t0j3idg"
     }
   },
   "local-filespaths": [
@@ -71,7 +86,7 @@
     {
       "notebookId": "20250421161831-4yd9i2x",
       "openPaths": [
-        "/20250906092022-mktvcon/20250927110945-8yjkhdc/20250927215518-fxgru8y.sy",
+        "/20250906092022-mktvcon/20250927110945-8yjkhdc/20250928113136-qeiukwq.sy",
         "/20250421161834-cbj7t4x/20250921101945-j5uzem4.sy"
       ]
     },
