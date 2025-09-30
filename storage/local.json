@@ -24,6 +24,12 @@
     "currentTab": "dynamic"
   },
   "local-fileposition": {
+    "20250415202526-cv9wg2e": {
+      "endId": "20250427182152-kjuapwq",
+      "rootId": "20250415202526-cv9wg2e",
+      "scrollTop": 0,
+      "startId": "20250415202526-fymwnhh"
+    },
     "20250430143813-7s4w4uh": {
       "endId": "20250922213125-riqxmaw",
       "rootId": "20250430143813-7s4w4uh",
@@ -36,6 +42,12 @@
       "scrollTop": 0,
       "startId": "20250508161508-8a9vvkm"
     },
+    "20250526153143-qmt5w8b": {
+      "endId": "20250731182834-jh1fpoo",
+      "rootId": "20250526153143-qmt5w8b",
+      "scrollTop": 0,
+      "startId": "20250526153143-ps4jaai"
+    },
     "20250623100223-x92428j": {
       "endId": "20250722133121-4jkrsfx",
       "rootId": "20250623100223-x92428j",
@@ -44,11 +56,11 @@
     },
     "20250902105105-feavjdy": {
       "endId": "20250927183056-5m3aqnx",
-      "focusEnd": 4,
-      "focusId": "20250927183801-k469eyw",
-      "focusStart": 4,
+      "focusEnd": 99,
+      "focusId": "20250920180852-c49j78g",
+      "focusStart": 99,
       "rootId": "20250902105105-feavjdy",
-      "scrollTop": 1688,
+      "scrollTop": 1067,
       "startId": "20250902105105-fdnxa6n"
     },
     "20250906092022-mktvcon": {
@@ -63,11 +75,23 @@
       "scrollTop": 0,
       "startId": "20250917100221-8lyxqao"
     },
+    "20250927111000-7qhp9kk": {
+      "endId": "20250927111000-q5o2acl",
+      "rootId": "20250927111000-7qhp9kk",
+      "scrollTop": 0,
+      "startId": "20250927111000-q5o2acl"
+    },
     "20250927111041-36zprhg": {
       "endId": "20250927155215-gybspmy",
       "rootId": "20250927111041-36zprhg",
       "scrollTop": 1333,
       "startId": "20250927113825-2z6w26r"
+    },
+    "20250927215518-fxgru8y": {
+      "endId": "20250928104600-q8md0eo",
+      "rootId": "20250927215518-fxgru8y",
+      "scrollTop": 0,
+      "startId": "20250927215518-i7t2woj"
     },
     "20250928094106-b9a7xr3": {
       "endId": "20250928110830-xag39ei",
@@ -100,6 +124,12 @@
       "openPaths": [
         "/20250906092022-mktvcon/20250927110945-8yjkhdc/20250928113136-qeiukwq.sy",
         "/20250421161834-cbj7t4x/20250921101945-j5uzem4.sy"
+      ]
+    },
+    {
+      "notebookId": "20250425103239-6xyrju6",
+      "openPaths": [
+        "/20250526153143-qmt5w8b.sy"
       ]
     },
     {
