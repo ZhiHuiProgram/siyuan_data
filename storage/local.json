@@ -24,68 +24,35 @@
     "currentTab": "dynamic"
   },
   "local-fileposition": {
-    "20250415202526-cv9wg2e": {
-      "endId": "20250427182152-kjuapwq",
-      "rootId": "20250415202526-cv9wg2e",
+    "20250906162852-3rm8d8h": {
+      "endId": "20251003210847-2ner94a",
+      "focusEnd": 0,
+      "focusId": "20251003210847-2ner94a",
+      "focusStart": 0,
+      "rootId": "20250906162852-3rm8d8h",
       "scrollTop": 0,
-      "startId": "20250415202526-fymwnhh"
+      "startId": "20250906162852-b32ubh6"
     },
-    "20250430143813-7s4w4uh": {
-      "endId": "20250922213125-riqxmaw",
-      "rootId": "20250430143813-7s4w4uh",
-      "scrollTop": 267,
-      "startId": "20250430143813-1nob9uw"
+    "20250925183101-qx8vbnp": {
+      "endId": "20250925183151-xrsgrwx",
+      "focusEnd": 0,
+      "focusId": "20250925183101-kzikm4x",
+      "focusStart": 0,
+      "rootId": "20250925183101-qx8vbnp",
+      "scrollTop": 80,
+      "startId": "20250925183101-kzikm4x"
     },
-    "20250508161508-ztfnxiw": {
-      "endId": "20250510151548-ym5g7ph",
-      "rootId": "20250508161508-ztfnxiw",
+    "20250925192758-8t9f9mo": {
+      "endId": "20250926180456-hss33v6",
+      "rootId": "20250925192758-8t9f9mo",
       "scrollTop": 0,
-      "startId": "20250508161508-8a9vvkm"
+      "startId": "20250925192835-ecdq0t3"
     },
-    "20250526153143-qmt5w8b": {
-      "endId": "20250731182834-jh1fpoo",
-      "rootId": "20250526153143-qmt5w8b",
+    "20250927110945-8yjkhdc": {
+      "endId": "20250927110945-xm8v5ez",
+      "rootId": "20250927110945-8yjkhdc",
       "scrollTop": 0,
-      "startId": "20250526153143-ps4jaai"
-    },
-    "20250623100223-x92428j": {
-      "endId": "20250722133121-4jkrsfx",
-      "rootId": "20250623100223-x92428j",
-      "scrollTop": 661,
-      "startId": "20250721183121-5almhql"
-    },
-    "20250902105105-feavjdy": {
-      "endId": "20250927183056-5m3aqnx",
-      "focusEnd": 99,
-      "focusId": "20250920180852-c49j78g",
-      "focusStart": 99,
-      "rootId": "20250902105105-feavjdy",
-      "scrollTop": 1067,
-      "startId": "20250902105105-fdnxa6n"
-    },
-    "20250906092022-mktvcon": {
-      "endId": "20250921115448-eedfa0f",
-      "rootId": "20250906092022-mktvcon",
-      "scrollTop": 0,
-      "startId": "20250906092704-jlp155c"
-    },
-    "20250917100221-uahmun2": {
-      "endId": "20250917101513-osovqy4",
-      "rootId": "20250917100221-uahmun2",
-      "scrollTop": 0,
-      "startId": "20250917100221-8lyxqao"
-    },
-    "20250927111000-7qhp9kk": {
-      "endId": "20250927111000-q5o2acl",
-      "rootId": "20250927111000-7qhp9kk",
-      "scrollTop": 0,
-      "startId": "20250927111000-q5o2acl"
-    },
-    "20250927111041-36zprhg": {
-      "endId": "20250927155215-gybspmy",
-      "rootId": "20250927111041-36zprhg",
-      "scrollTop": 1333,
-      "startId": "20250927113825-2z6w26r"
+      "startId": "20250927110945-xm8v5ez"
     },
     "20250927215518-fxgru8y": {
       "endId": "20250928104600-q8md0eo",
@@ -95,9 +62,66 @@
     },
     "20250928094106-b9a7xr3": {
       "endId": "20250928110830-xag39ei",
+      "focusEnd": 0,
+      "focusId": "20250928110830-xag39ei",
+      "focusStart": 0,
       "rootId": "20250928094106-b9a7xr3",
-      "scrollTop": 998,
+      "scrollTop": 1100,
       "startId": "20250928094106-t0j3idg"
+    },
+    "20250928113136-qeiukwq": {
+      "endId": "20250929182147-q35w0lh",
+      "focusEnd": 0,
+      "focusId": "20250928113136-0kshxet",
+      "focusStart": 0,
+      "rootId": "20250928113136-qeiukwq",
+      "scrollTop": 554,
+      "startId": "20250928113136-0kshxet"
+    },
+    "20251001002956-pzlq3cg": {
+      "endId": "20251001012051-6b59tke",
+      "rootId": "20251001002956-pzlq3cg",
+      "scrollTop": 0,
+      "startId": "20251001002956-toslsa7"
+    },
+    "20251001180628-kgqskhw": {
+      "endId": "20251002011604-lk6mkwm",
+      "rootId": "20251001180628-kgqskhw",
+      "scrollTop": 770,
+      "startId": "20251001180628-wmzgkrj"
+    },
+    "20251002000914-oy3ckno": {
+      "endId": "20251003004150-jearawj",
+      "focusEnd": 0,
+      "focusId": "20251003004150-jearawj",
+      "focusStart": 0,
+      "rootId": "20251002000914-oy3ckno",
+      "scrollTop": 0,
+      "startId": "20251002000914-r307spl"
+    },
+    "20251002004831-7sisucd": {
+      "endId": "20251002005419-y5piv50",
+      "focusEnd": 0,
+      "focusId": "20251002004831-656cw8c",
+      "focusStart": 0,
+      "rootId": "20251002004831-7sisucd",
+      "scrollTop": 380,
+      "startId": "20251002004831-656cw8c"
+    },
+    "20251002011605-0krf8s4": {
+      "endId": "20251003110031-n3ti48j",
+      "focusEnd": 305,
+      "focusId": "20251003010021-2peprep",
+      "focusStart": 305,
+      "rootId": "20251002011605-0krf8s4",
+      "scrollTop": 4307,
+      "startId": "20251002011605-t2ze5cm"
+    },
+    "20251003120328-vhkmnpu": {
+      "endId": "20251003124426-n3xlnpl",
+      "rootId": "20251003120328-vhkmnpu",
+      "scrollTop": 46,
+      "startId": "20251003120328-6jkkpgd"
     }
   },
   "local-filespaths": [
@@ -122,8 +146,7 @@
     {
       "notebookId": "20250421161831-4yd9i2x",
       "openPaths": [
-        "/20250906092022-mktvcon/20250927110945-8yjkhdc/20250928113136-qeiukwq.sy",
-        "/20250421161834-cbj7t4x/20250921101945-j5uzem4.sy"
+        "/20250906092022-mktvcon/20251003212838-wbx2r2l/20251003212853-onkdlp1.sy"
       ]
     },
     {
@@ -170,14 +193,14 @@
     }
   ],
   "local-fontstyles": [
-    "clear​undefined",
-    "backgroundColor​var(--b3-font-background8)",
-    "fontSize​16px",
-    "fontSize​15px",
-    "fontSize​13px",
-    "fontSize​9px",
-    "fontSize​20px",
-    "fontSize​21px"
+    "fontSize​25px",
+    "fontSize​29px",
+    "fontSize​21px",
+    "fontSize​26px",
+    "fontSize​22px",
+    "fontSize​24px",
+    "fontSize​30px",
+    "fontSize​20px"
   ],
   "local-history": {
     "notebookId": "%",
@@ -192,15 +215,15 @@
   },
   "local-searchdata": {
     "group": 0,
-    "hPath": "虚拟机/WSL",
+    "hPath": "编程语言/RUST/复合类型/字符串与切片",
     "hasReplace": false,
     "idPath": [
-      "20250415202817-tti0zln/20250430111414-lz2uu61.sy"
+      "20250421161831-4yd9i2x/20250906092022-mktvcon/20250927110945-8yjkhdc/20250927111041-36zprhg.sy"
     ],
-    "k": "cursor",
+    "k": "\".",
     "method": 0,
     "page": 1,
-    "query": "cursor",
+    "query": "\".",
     "r": "",
     "removed": true,
     "replaceTypes": {
@@ -255,6 +278,10 @@
     "col": "",
     "colTab": "",
     "keys": [
+      "\".",
+      "ref",
+      "..",
+      "表达式",
       "cursor",
       "软",
       "软连接",
