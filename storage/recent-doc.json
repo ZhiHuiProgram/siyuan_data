@@ -1,5 +1,25 @@
 [
   {
+    "rootID": "20251011112833-g8ohkdr",
+    "icon": "",
+    "title": "特征对象"
+  },
+  {
+    "rootID": "20251010170044-i3fs1d2",
+    "icon": "",
+    "title": "特征Trait"
+  },
+  {
+    "rootID": "20251003120328-vhkmnpu",
+    "icon": "",
+    "title": "方法"
+  },
+  {
+    "rootID": "20251003212853-onkdlp1",
+    "icon": "",
+    "title": "泛型Generics"
+  },
+  {
     "rootID": "20251002004831-7sisucd",
     "icon": "",
     "title": "模式适用场景"
@@ -8,11 +28,6 @@
     "rootID": "20251002011605-0krf8s4",
     "icon": "",
     "title": "全模式匹配列表"
-  },
-  {
-    "rootID": "20251010170044-i3fs1d2",
-    "icon": "",
-    "title": "特征Trait"
   },
   {
     "rootID": "20250928094106-b9a7xr3",
@@ -38,11 +53,6 @@
     "rootID": "20250927110945-8yjkhdc",
     "icon": "",
     "title": "复合类型"
-  },
-  {
-    "rootID": "20251003120328-vhkmnpu",
-    "icon": "",
-    "title": "方法"
   },
   {
     "rootID": "20250925192758-8t9f9mo",
@@ -73,11 +83,6 @@
     "rootID": "20250927111041-36zprhg",
     "icon": "",
     "title": "字符串与切片"
-  },
-  {
-    "rootID": "20251003212853-onkdlp1",
-    "icon": "",
-    "title": "泛型Generics"
   },
   {
     "rootID": "20251001180610-q7c5itl",
@@ -153,10 +158,5 @@
     "rootID": "20250508161508-ztfnxiw",
     "icon": "",
     "title": "配置代理端口"
-  },
-  {
-    "rootID": "20250425103241-yb8mqcf",
-    "icon": "",
-    "title": "内存"
   }
 ]
