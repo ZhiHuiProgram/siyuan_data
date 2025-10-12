@@ -30,11 +30,29 @@
       "scrollTop": 168,
       "startId": "20250430143813-1nob9uw"
     },
+    "20250906092022-mktvcon": {
+      "endId": "20250921115448-eedfa0f",
+      "focusEnd": 0,
+      "focusId": "20250906092704-jlp155c",
+      "focusStart": 0,
+      "rootId": "20250906092022-mktvcon",
+      "scrollTop": 0,
+      "startId": "20250906092704-jlp155c"
+    },
     "20250925183101-qx8vbnp": {
       "endId": "20250925183151-xrsgrwx",
       "rootId": "20250925183101-qx8vbnp",
       "scrollTop": 0,
       "startId": "20250925183101-kzikm4x"
+    },
+    "20250928113136-qeiukwq": {
+      "endId": "20250929182147-q35w0lh",
+      "focusEnd": 0,
+      "focusId": "20250928113136-0kshxet",
+      "focusStart": 0,
+      "rootId": "20250928113136-qeiukwq",
+      "scrollTop": 400,
+      "startId": "20250928113136-0kshxet"
     },
     "20251002011605-0krf8s4": {
       "endId": "20251003110031-n3ti48j",
@@ -46,12 +64,12 @@
       "startId": "20251002011605-t2ze5cm"
     },
     "20251003120328-vhkmnpu": {
-      "endId": "20251003124426-n3xlnpl",
-      "focusEnd": 8,
-      "focusId": "20251003120328-6jkkpgd",
-      "focusStart": 8,
+      "endId": "20251012172403-tvm9udy",
+      "focusEnd": 0,
+      "focusId": "20251012172403-tvm9udy",
+      "focusStart": 0,
       "rootId": "20251003120328-vhkmnpu",
-      "scrollTop": 1340,
+      "scrollTop": 0,
       "startId": "20251003120328-6jkkpgd"
     },
     "20251003212838-wbx2r2l": {
@@ -80,6 +98,15 @@
       "rootId": "20251010170044-i3fs1d2",
       "scrollTop": 800,
       "startId": "20251010170044-rsd1y15"
+    },
+    "20251012183520-avhaakb": {
+      "endId": "20251012183711-yn5vy98",
+      "focusEnd": 0,
+      "focusId": "20251012183711-yn5vy98",
+      "focusStart": 0,
+      "rootId": "20251012183520-avhaakb",
+      "scrollTop": 0,
+      "startId": "20251012183520-x7y85ft"
     }
   },
   "local-filespaths": [
@@ -105,7 +132,8 @@
       "notebookId": "20250421161831-4yd9i2x",
       "openPaths": [
         "/20250906092022-mktvcon/20251012183520-avhaakb/20251012183713-w6di192.sy",
-        "/20250906092022-mktvcon/20251003212838-wbx2r2l/20251012152032-tzc8hs6.sy"
+        "/20250906092022-mktvcon/20251003212838-wbx2r2l/20251012152032-tzc8hs6.sy",
+        "/20250906092022-mktvcon/20251001180610-q7c5itl/20251002011605-0krf8s4.sy"
       ]
     },
     {
@@ -174,15 +202,13 @@
   },
   "local-searchdata": {
     "group": 0,
-    "hPath": "编程语言/RUST/泛型和特征/特征Trait",
+    "hPath": "",
     "hasReplace": false,
-    "idPath": [
-      "20250421161831-4yd9i2x/20250906092022-mktvcon/20251003212838-wbx2r2l/20251010170044-i3fs1d2.sy"
-    ],
-    "k": "特征约束",
+    "idPath": [],
+    "k": "deref",
     "method": 0,
     "page": 1,
-    "query": "特征约束",
+    "query": "deref",
     "r": "",
     "removed": true,
     "replaceTypes": {
@@ -237,6 +263,7 @@
     "col": "",
     "colTab": "",
     "keys": [
+      "deref",
       "特征约束",
       "关联函数",
       "trait",
