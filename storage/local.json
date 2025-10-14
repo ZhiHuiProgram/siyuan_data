@@ -54,6 +54,24 @@
       "scrollTop": 400,
       "startId": "20250928113136-0kshxet"
     },
+    "20251001180610-q7c5itl": {
+      "endId": "20251001180610-uscpjmq",
+      "rootId": "20251001180610-q7c5itl",
+      "scrollTop": 0,
+      "startId": "20251001180610-uscpjmq"
+    },
+    "20251001180628-kgqskhw": {
+      "endId": "20251002011604-lk6mkwm",
+      "rootId": "20251001180628-kgqskhw",
+      "scrollTop": 1100,
+      "startId": "20251001180628-wmzgkrj"
+    },
+    "20251002004831-7sisucd": {
+      "endId": "20251002005419-y5piv50",
+      "rootId": "20251002004831-7sisucd",
+      "scrollTop": 380,
+      "startId": "20251002004831-656cw8c"
+    },
     "20251002011605-0krf8s4": {
       "endId": "20251003110031-n3ti48j",
       "focusEnd": 8,
@@ -99,6 +117,12 @@
       "scrollTop": 800,
       "startId": "20251010170044-rsd1y15"
     },
+    "20251011112833-g8ohkdr": {
+      "endId": "20251012012833-jphugs3",
+      "rootId": "20251011112833-g8ohkdr",
+      "scrollTop": 0,
+      "startId": "20251011112833-yprxzvz"
+    },
     "20251012183520-avhaakb": {
       "endId": "20251012183711-yn5vy98",
       "focusEnd": 0,
@@ -107,6 +131,12 @@
       "rootId": "20251012183520-avhaakb",
       "scrollTop": 0,
       "startId": "20251012183520-x7y85ft"
+    },
+    "20251012183713-w6di192": {
+      "endId": "20251012223548-0xz25a8",
+      "rootId": "20251012183713-w6di192",
+      "scrollTop": 900,
+      "startId": "20251012183713-iaj1yxz"
     }
   },
   "local-filespaths": [
@@ -131,7 +161,8 @@
     {
       "notebookId": "20250421161831-4yd9i2x",
       "openPaths": [
-        "/20250906092022-mktvcon/20251012183520-avhaakb/20251012183713-w6di192.sy",
+        "/20250906092022-mktvcon/20251014150038-526p2mh/20251014222805-id8l3ue.sy",
+        "/20250906092022-mktvcon/20251012183520-avhaakb/20251013150557-sxwo09s.sy",
         "/20250906092022-mktvcon/20251003212838-wbx2r2l/20251012152032-tzc8hs6.sy",
         "/20250906092022-mktvcon/20251001180610-q7c5itl/20251002011605-0krf8s4.sy"
       ]
@@ -139,7 +170,7 @@
     {
       "notebookId": "20250425103239-6xyrju6",
       "openPaths": [
-        "/20250526153143-qmt5w8b.sy"
+        "/20251014100303-3a40pi7.sy"
       ]
     },
     {
