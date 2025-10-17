@@ -149,6 +149,39 @@
       "rootId": "20251012183713-w6di192",
       "scrollTop": 2900,
       "startId": "20251012183713-iaj1yxz"
+    },
+    "20251013150557-sxwo09s": {
+      "endId": "20251014132206-498m5fb",
+      "rootId": "20251013150557-sxwo09s",
+      "scrollTop": 508,
+      "startId": "20251013150557-m3ehcti"
+    },
+    "20251014150038-526p2mh": {
+      "endId": "20251014150116-wfyhkhg",
+      "focusEnd": 0,
+      "focusId": "20251014150059-nwrf1fv",
+      "focusStart": 0,
+      "rootId": "20251014150038-526p2mh",
+      "scrollTop": 0,
+      "startId": "20251014150059-nwrf1fv"
+    },
+    "20251014150125-poolf41": {
+      "endId": "20251014221655-766v9gn",
+      "rootId": "20251014150125-poolf41",
+      "scrollTop": 304,
+      "startId": "20251014150125-1rjujj3"
+    },
+    "20251014222805-id8l3ue": {
+      "endId": "20251016212427-qs1fiz1",
+      "rootId": "20251014222805-id8l3ue",
+      "scrollTop": 1755,
+      "startId": "20251014222805-ud9jwlw"
+    },
+    "20251016220205-r91ev2o": {
+      "endId": "20251016220352-nxbchrq",
+      "rootId": "20251016220205-r91ev2o",
+      "scrollTop": 0,
+      "startId": "20251016220352-e61heci"
     }
   },
   "local-filespaths": [
@@ -173,8 +206,7 @@
     {
       "notebookId": "20250421161831-4yd9i2x",
       "openPaths": [
-        "/20250906092022-mktvcon/20251016220205-r91ev2o/20251016222530-9pc4u4l.sy",
-        "/20250906092022-mktvcon/20251003212838-wbx2r2l/20251012152032-tzc8hs6.sy"
+        "/20250906092022-mktvcon/20251017225757-qsl8u81.sy"
       ]
     },
     {
@@ -221,14 +253,14 @@
     }
   ],
   "local-fontstyles": [
+    "fontSize​26px",
+    "fontSize​27px",
+    "fontSize​36px",
     "fontSize​25px",
     "fontSize​29px",
     "fontSize​21px",
-    "fontSize​26px",
     "fontSize​22px",
-    "fontSize​24px",
-    "fontSize​30px",
-    "fontSize​20px"
+    "fontSize​24px"
   ],
   "local-history": {
     "notebookId": "%",
@@ -243,13 +275,15 @@
   },
   "local-searchdata": {
     "group": 0,
-    "hPath": "",
+    "hPath": "编程语言/RUST/集合类型/动态数组Vector",
     "hasReplace": false,
-    "idPath": [],
-    "k": "deref",
+    "idPath": [
+      "20250421161831-4yd9i2x/20250906092022-mktvcon/20251012183520-avhaakb/20251012183713-w6di192.sy"
+    ],
+    "k": "get",
     "method": 0,
     "page": 1,
-    "query": "deref",
+    "query": "get",
     "r": "",
     "removed": true,
     "replaceTypes": {
@@ -304,6 +338,7 @@
     "col": "",
     "colTab": "",
     "keys": [
+      "get",
       "deref",
       "特征约束",
       "关联函数",
