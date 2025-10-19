@@ -8,16 +8,22 @@
       "width": 368
     },
     "dialog-search": {
-      "height": 743,
+      "height": 919,
       "left": 132,
       "top": 41,
-      "width": 1061
+      "width": 1390
     },
     "dialog-searchtype": {
       "height": 576,
       "left": 543,
       "top": 123,
       "width": 519
+    },
+    "dialog-setting": {
+      "height": 752,
+      "left": 68,
+      "top": 41,
+      "width": 1236
     }
   },
   "local-emojis": {
@@ -32,9 +38,9 @@
     },
     "20250906092022-mktvcon": {
       "endId": "20250921115448-eedfa0f",
-      "focusEnd": 0,
-      "focusId": "20250906092704-jlp155c",
-      "focusStart": 0,
+      "focusEnd": 154,
+      "focusId": "20250906092512-o1d5ih5",
+      "focusStart": 154,
       "rootId": "20250906092022-mktvcon",
       "scrollTop": 0,
       "startId": "20250906092704-jlp155c"
@@ -44,6 +50,21 @@
       "rootId": "20250925183101-qx8vbnp",
       "scrollTop": 0,
       "startId": "20250925183101-kzikm4x"
+    },
+    "20250927215518-fxgru8y": {
+      "endId": "20250928104600-q8md0eo",
+      "focusEnd": 8,
+      "focusId": "20250927215518-i7t2woj",
+      "focusStart": 8,
+      "rootId": "20250927215518-fxgru8y",
+      "scrollTop": 0,
+      "startId": "20250927215518-i7t2woj"
+    },
+    "20250928094106-b9a7xr3": {
+      "endId": "20250928110830-xag39ei",
+      "rootId": "20250928094106-b9a7xr3",
+      "scrollTop": 700,
+      "startId": "20250928094106-t0j3idg"
     },
     "20250928113136-qeiukwq": {
       "endId": "20250929182147-q35w0lh",
@@ -62,8 +83,11 @@
     },
     "20251001180628-kgqskhw": {
       "endId": "20251002011604-lk6mkwm",
+      "focusEnd": 0,
+      "focusId": "20251002011604-lk6mkwm",
+      "focusStart": 0,
       "rootId": "20251001180628-kgqskhw",
-      "scrollTop": 1100,
+      "scrollTop": 1000,
       "startId": "20251001180628-wmzgkrj"
     },
     "20251002000914-oy3ckno": {
@@ -128,6 +152,9 @@
     },
     "20251011112833-g8ohkdr": {
       "endId": "20251012012833-jphugs3",
+      "focusEnd": 8,
+      "focusId": "20251011112833-yprxzvz",
+      "focusStart": 8,
       "rootId": "20251011112833-g8ohkdr",
       "scrollTop": 0,
       "startId": "20251011112833-yprxzvz"
@@ -173,8 +200,11 @@
     },
     "20251014222805-id8l3ue": {
       "endId": "20251016212427-qs1fiz1",
+      "focusEnd": 0,
+      "focusId": "20251016212427-qs1fiz1",
+      "focusStart": 0,
       "rootId": "20251014222805-id8l3ue",
-      "scrollTop": 1755,
+      "scrollTop": 1800,
       "startId": "20251014222805-ud9jwlw"
     },
     "20251016220205-r91ev2o": {
@@ -182,6 +212,30 @@
       "rootId": "20251016220205-r91ev2o",
       "scrollTop": 0,
       "startId": "20251016220352-e61heci"
+    },
+    "20251017225757-qsl8u81": {
+      "endId": "20251018225249-admusg2",
+      "focusEnd": 0,
+      "focusId": "20251018225249-admusg2",
+      "focusStart": 0,
+      "rootId": "20251017225757-qsl8u81",
+      "scrollTop": 2009,
+      "startId": "20251017225757-c7wk45d"
+    },
+    "20251018230417-774c04a": {
+      "endId": "20251019000153-42zu3p0",
+      "focusEnd": 312,
+      "focusId": "20251019000130-hx8cz3n",
+      "focusStart": 312,
+      "rootId": "20251018230417-774c04a",
+      "scrollTop": 4695,
+      "startId": "20251018235058-g03lhxo"
+    },
+    "20251019001120-h4p6cb6": {
+      "endId": "20251019001120-lks434k",
+      "rootId": "20251019001120-h4p6cb6",
+      "scrollTop": 0,
+      "startId": "20251019001120-lks434k"
     }
   },
   "local-filespaths": [
@@ -206,7 +260,7 @@
     {
       "notebookId": "20250421161831-4yd9i2x",
       "openPaths": [
-        "/20250906092022-mktvcon/20251017225757-qsl8u81.sy"
+        "/20250906092022-mktvcon/20251019191859-tqs5a5e/20251019191912-4kxjs0x.sy"
       ]
     },
     {
@@ -253,14 +307,14 @@
     }
   ],
   "local-fontstyles": [
+    "fontSize​21px",
+    "fontSize​19px",
+    "fontSize​22px",
     "fontSize​26px",
     "fontSize​27px",
     "fontSize​36px",
     "fontSize​25px",
-    "fontSize​29px",
-    "fontSize​21px",
-    "fontSize​22px",
-    "fontSize​24px"
+    "fontSize​29px"
   ],
   "local-history": {
     "notebookId": "%",
@@ -275,15 +329,13 @@
   },
   "local-searchdata": {
     "group": 0,
-    "hPath": "编程语言/RUST/集合类型/动态数组Vector",
+    "hPath": "",
     "hasReplace": false,
-    "idPath": [
-      "20250421161831-4yd9i2x/20250906092022-mktvcon/20251012183520-avhaakb/20251012183713-w6di192.sy"
-    ],
-    "k": "get",
+    "idPath": [],
+    "k": "next",
     "method": 0,
     "page": 1,
-    "query": "get",
+    "query": "next",
     "r": "",
     "removed": true,
     "replaceTypes": {
@@ -338,8 +390,14 @@
     "col": "",
     "colTab": "",
     "keys": [
-      "get",
+      "next",
+      "unwrap_or_else",
+      "map",
       "deref",
+      "",
+      "s",
+      "result",
+      "get",
       "特征约束",
       "关联函数",
       "trait",
@@ -354,7 +412,6 @@
       "cursor",
       "软",
       "软连接",
-      "",
       "ln",
       "dd",
       "DD",
@@ -400,7 +457,8 @@
     "layout": 0,
     "layoutTab": 0,
     "replaceKeys": [],
-    "row": "327px",
+    "row": "468px",
     "rowTab": ""
-  }
+  },
+  "pink-room-color-href": "/appearance/themes/pink-room/config/绿色系界面.css"
 }

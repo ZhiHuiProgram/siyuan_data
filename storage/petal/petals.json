@@ -1,1 +1,12 @@
-[]
+[
+	{
+		"name": "siyuan-plugin-kanban-girl",
+		"displayName": "看板娘",
+		"enabled": true,
+		"incompatible": false,
+		"disabledInPublish": false,
+		"js": "",
+		"css": "",
+		"i18n": null
+	}
+]
