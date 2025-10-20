@@ -260,7 +260,8 @@
     {
       "notebookId": "20250421161831-4yd9i2x",
       "openPaths": [
-        "/20250906092022-mktvcon/20251019191859-tqs5a5e/20251019191912-4kxjs0x.sy"
+        "/20250906092022-mktvcon/20251019191859-tqs5a5e/20251019191912-4kxjs0x.sy",
+        "/20250906092022-mktvcon/20251019001120-h4p6cb6/20251018230417-774c04a.sy"
       ]
     },
     {
@@ -332,10 +333,10 @@
     "hPath": "",
     "hasReplace": false,
     "idPath": [],
-    "k": "next",
+    "k": "Self",
     "method": 0,
     "page": 1,
-    "query": "next",
+    "query": "Self",
     "r": "",
     "removed": true,
     "replaceTypes": {
@@ -390,6 +391,7 @@
     "col": "",
     "colTab": "",
     "keys": [
+      "Self",
       "next",
       "unwrap_or_else",
       "map",
@@ -403,7 +405,6 @@
       "trait",
       "表",
       "虚表",
-      "Self",
       "hexdu",
       "\".",
       "ref",
