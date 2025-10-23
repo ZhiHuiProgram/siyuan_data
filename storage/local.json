@@ -30,146 +30,29 @@
     "currentTab": "dynamic"
   },
   "local-fileposition": {
-    "20250415202548-d6wbeb6": {
-      "endId": "20250603095633-kv7nin5",
-      "focusEnd": 0,
-      "focusId": "20250415202548-drqz7dw",
-      "focusStart": 0,
-      "rootId": "20250415202548-d6wbeb6",
-      "scrollTop": 0,
-      "startId": "20250415202548-drqz7dw"
-    },
-    "20250425102213-tvujpl8": {
-      "endId": null,
-      "focusEnd": 0,
-      "focusId": "20250425102213-erlas71",
-      "focusStart": 0,
-      "rootId": "20250425102213-tvujpl8",
-      "scrollTop": 0,
-      "startId": "20250425102213-erlas71"
-    },
-    "20250425103241-yb8mqcf": {
-      "endId": "20250425110317-cs2wkn5",
-      "focusEnd": 142,
-      "focusId": "20250425110309-xqvh81s",
-      "focusStart": 142,
-      "rootId": "20250425103241-yb8mqcf",
-      "scrollTop": 0,
-      "startId": "20250425103241-bw9swrt"
-    },
-    "20250430111414-lz2uu61": {
-      "endId": null,
-      "focusEnd": 0,
-      "focusId": "20250430111414-u0wtr77",
-      "focusStart": 0,
-      "rootId": "20250430111414-lz2uu61",
-      "scrollTop": 0,
-      "startId": "20250430111414-u0wtr77"
-    },
-    "20250604153151-9z46sfa": {
-      "endId": null,
-      "focusEnd": 7,
-      "focusId": "20251022091644-kfsxfp0",
-      "focusStart": 7,
-      "rootId": "20250604153151-9z46sfa",
-      "scrollTop": 0,
-      "startId": "20251022091608-chlnxge"
-    },
-    "20250614180207-gdvmm6z": {
-      "endId": "20250701220117-ev3gozd",
-      "focusEnd": 4,
-      "focusId": "20250614180328-ig5mp6r",
-      "focusStart": 4,
-      "rootId": "20250614180207-gdvmm6z",
-      "scrollTop": 1067,
-      "startId": "20250614180207-mf42wb3"
-    },
-    "20250712180500-84kg2gm": {
-      "endId": "20250802085850-rzh56jf",
-      "focusEnd": 4,
-      "focusId": "20250802085916-mivs9ev",
-      "focusStart": 4,
-      "rootId": "20250712180500-84kg2gm",
-      "scrollTop": 1823,
-      "startId": "20250712180500-rdwv7cp"
-    },
-    "20250823114622-bdkrnu7": {
-      "endId": "20250823114700-e6cscnr",
-      "focusEnd": 0,
-      "focusId": "20250823114622-qoa3y1u",
-      "focusStart": 0,
-      "rootId": "20250823114622-bdkrnu7",
-      "scrollTop": 0,
-      "startId": "20250823114622-qoa3y1u"
-    },
-    "20250925192758-8t9f9mo": {
-      "endId": null,
-      "focusEnd": 0,
-      "focusId": "20250925192835-ecdq0t3",
-      "focusStart": 0,
-      "rootId": "20250925192758-8t9f9mo",
-      "scrollTop": 1067,
-      "startId": "20250925192835-ecdq0t3"
-    },
-    "20251019001156-94pz0na": {
-      "endId": null,
-      "focusEnd": 0,
-      "focusId": "20251019001156-g6vjl0x",
-      "focusStart": 0,
-      "rootId": "20251019001156-94pz0na",
-      "scrollTop": 0,
-      "startId": "20251019001156-g6vjl0x"
-    },
-    "20251019191859-tqs5a5e": {
-      "endId": "20251022101502-p5m6c2q",
-      "focusEnd": 0,
-      "focusId": "20251022101502-p5m6c2q",
-      "focusStart": 0,
-      "rootId": "20251019191859-tqs5a5e",
-      "scrollTop": 0,
-      "startId": "20251019191859-svonq9h"
-    },
-    "20251019191912-4kxjs0x": {
-      "endId": "20251021182527-fay3e78",
-      "focusEnd": 810,
-      "focusId": "20251021182527-fay3e78",
-      "focusStart": 810,
-      "rootId": "20251019191912-4kxjs0x",
-      "scrollTop": 4870,
-      "startId": "20251020222903-qhd3x11"
-    },
-    "20251021222159-owf3p2m": {
-      "endId": "20251021230027-dhmfeox",
-      "focusEnd": 0,
-      "focusId": "20251021222159-9pz1o1j",
-      "focusStart": 0,
-      "rootId": "20251021222159-owf3p2m",
-      "scrollTop": 0,
-      "startId": "20251021222159-9pz1o1j"
-    },
     "20251022102657-daq88el": {
       "endId": "20251022102757-efigfb4",
-      "focusEnd": 0,
-      "focusId": "20251022102757-efigfb4",
-      "focusStart": 0,
       "rootId": "20251022102657-daq88el",
       "scrollTop": 0,
       "startId": "20251022102740-1wxh4tj"
     },
     "20251022102742-i96qnmf": {
-      "endId": null,
+      "endId": "20251022102742-few79dd",
+      "focusEnd": 0,
+      "focusId": "20251022102742-few79dd",
+      "focusStart": 0,
       "rootId": "20251022102742-i96qnmf",
       "scrollTop": 0,
       "startId": "20251022102742-few79dd"
     },
     "20251022102806-sd020rx": {
-      "endId": "20251022173022-blay0gj",
+      "endId": "20251023212028-rac7izq",
       "focusEnd": 0,
-      "focusId": "20251022173022-blay0gj",
+      "focusId": "20251023212028-rac7izq",
       "focusStart": 0,
       "rootId": "20251022102806-sd020rx",
-      "scrollTop": 192,
-      "startId": "20251022102806-ng5b4go"
+      "scrollTop": 966,
+      "startId": "20251023152432-b9rhzj9"
     }
   },
   "local-filespaths": [
@@ -265,13 +148,15 @@
   },
   "local-searchdata": {
     "group": 0,
-    "hPath": "",
+    "hPath": "编程语言/RUST/Rust高级进阶/函数式编程，闭包，迭代器/闭包 Closure",
     "hasReplace": false,
-    "idPath": [],
-    "k": "",
+    "idPath": [
+      "20250421161831-4yd9i2x/20250906092022-mktvcon/20251019191859-tqs5a5e/20251022102657-daq88el/20251022102806-sd020rx.sy"
+    ],
+    "k": "就算签名一样的闭包，类型也是不同的",
     "method": 0,
     "page": 1,
-    "query": "",
+    "query": "就算签名一样的闭包，类型也是不同的",
     "r": "",
     "removed": true,
     "replaceTypes": {
@@ -326,6 +211,7 @@
     "col": "",
     "colTab": "",
     "keys": [
+      "就算签名一样的闭包，类型也是不同的",
       "",
       "i2c",
       "lsof",
@@ -388,8 +274,7 @@
       "文件夹",
       "文件夹大小",
       "exp",
-      "8.8.8.",
-      "echo 3"
+      "8.8.8."
     ],
     "layout": 0,
     "layoutTab": 0,
