@@ -268,10 +268,10 @@
     "hPath": "",
     "hasReplace": false,
     "idPath": [],
-    "k": "ref",
+    "k": "",
     "method": 0,
     "page": 1,
-    "query": "ref",
+    "query": "",
     "r": "",
     "removed": true,
     "replaceTypes": {
@@ -326,6 +326,9 @@
     "col": "",
     "colTab": "",
     "keys": [
+      "",
+      "i2c",
+      "lsof",
       "ref",
       "aov",
       "Self",
@@ -333,7 +336,6 @@
       "unwrap_or_else",
       "map",
       "deref",
-      "",
       "s",
       "result",
       "get",
@@ -387,9 +389,7 @@
       "文件夹大小",
       "exp",
       "8.8.8.",
-      "echo 3",
-      "内存",
-      "是"
+      "echo 3"
     ],
     "layout": 0,
     "layoutTab": 0,
