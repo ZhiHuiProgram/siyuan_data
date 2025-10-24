@@ -1,5 +1,35 @@
 [
   {
+    "rootID": "20251012152032-tzc8hs6",
+    "icon": "",
+    "title": "深入特征"
+  },
+  {
+    "rootID": "20251011112833-g8ohkdr",
+    "icon": "",
+    "title": "特征对象"
+  },
+  {
+    "rootID": "20251010170044-i3fs1d2",
+    "icon": "",
+    "title": "特征Trait"
+  },
+  {
+    "rootID": "20251003212853-onkdlp1",
+    "icon": "",
+    "title": "泛型Generics"
+  },
+  {
+    "rootID": "20251012183520-avhaakb",
+    "icon": "",
+    "title": "集合类型"
+  },
+  {
+    "rootID": "20251018230417-774c04a",
+    "icon": "",
+    "title": "格式化输出"
+  },
+  {
     "rootID": "20251022102742-i96qnmf",
     "icon": "",
     "title": "迭代器 Iterator"
@@ -50,11 +80,6 @@
     "title": "关键字"
   },
   {
-    "rootID": "20251012152032-tzc8hs6",
-    "icon": "",
-    "title": "深入特征"
-  },
-  {
     "rootID": "20251003212838-wbx2r2l",
     "icon": "",
     "title": "泛型和特征"
@@ -88,11 +113,6 @@
     "rootID": "20251014132302-nihsg81",
     "icon": "",
     "title": "认识生命周期"
-  },
-  {
-    "rootID": "20251011112833-g8ohkdr",
-    "icon": "",
-    "title": "特征对象"
   },
   {
     "rootID": "20251016222530-9pc4u4l",
