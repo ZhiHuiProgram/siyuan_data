@@ -30,29 +30,50 @@
     "currentTab": "dynamic"
   },
   "local-fileposition": {
-    "20251011112833-g8ohkdr": {
-      "endId": "20251012012833-jphugs3",
-      "rootId": "20251011112833-g8ohkdr",
+    "20250430111414-lz2uu61": {
+      "endId": "20250606140526-ljwhml0",
+      "focusEnd": 0,
+      "focusId": "20250430111414-u0wtr77",
+      "focusStart": 0,
+      "rootId": "20250430111414-lz2uu61",
       "scrollTop": 0,
-      "startId": "20251011112833-yprxzvz"
+      "startId": "20250430111414-u0wtr77"
+    },
+    "20250430135627-ergqdb2": {
+      "endId": "20250430135646-wv25vo7",
+      "focusEnd": 4,
+      "focusId": "20250430135627-fsemyrp",
+      "focusStart": 4,
+      "rootId": "20250430135627-ergqdb2",
+      "scrollTop": 0,
+      "startId": "20250430135627-fsemyrp"
+    },
+    "20250430140658-z0p2fu2": {
+      "endId": "20250714100806-hzqe678",
+      "focusEnd": 0,
+      "focusId": "20250430140658-4z0biad",
+      "focusStart": 0,
+      "rootId": "20250430140658-z0p2fu2",
+      "scrollTop": 0,
+      "startId": "20250430140658-4z0biad"
+    },
+    "20250508161508-ztfnxiw": {
+      "endId": "20250510151548-ym5g7ph",
+      "focusEnd": 4,
+      "focusId": "20250508161508-8a9vvkm",
+      "focusStart": 4,
+      "rootId": "20250508161508-ztfnxiw",
+      "scrollTop": 0,
+      "startId": "20250508161508-8a9vvkm"
     },
     "20251022102742-i96qnmf": {
-      "endId": "20251023230822-34j2dxz",
+      "endId": "20251024181824-vsub52z",
       "focusEnd": 0,
-      "focusId": "20251023230822-34j2dxz",
+      "focusId": "20251024181824-vsub52z",
       "focusStart": 0,
       "rootId": "20251022102742-i96qnmf",
-      "scrollTop": 0,
+      "scrollTop": 3030,
       "startId": "20251023230819-62c7jvt"
-    },
-    "20251022102806-sd020rx": {
-      "endId": "20251023230107-ds2k0ui",
-      "focusEnd": 48,
-      "focusId": "20251023152434-pz2mcln",
-      "focusStart": 48,
-      "rootId": "20251022102806-sd020rx",
-      "scrollTop": 0,
-      "startId": "20251023152432-b9rhzj9"
     }
   },
   "local-filespaths": [
@@ -77,8 +98,7 @@
     {
       "notebookId": "20250421161831-4yd9i2x",
       "openPaths": [
-        "/20250906092022-mktvcon/20251019191859-tqs5a5e/20251022102657-daq88el/20251022102806-sd020rx.sy",
-        "/20250906092022-mktvcon/20251019191859-tqs5a5e/20251021222156-ajxpd8g/20251021222159-owf3p2m.sy",
+        "/20250906092022-mktvcon/20251019191859-tqs5a5e/20251025092245-u8dz1f1/20251025094721-qyevbq4.sy",
         "/20250906092022-mktvcon/20251019001120-h4p6cb6/20251003212838-wbx2r2l/20251012152032-tzc8hs6.sy"
       ]
     },
@@ -148,15 +168,15 @@
   },
   "local-searchdata": {
     "group": 0,
-    "hPath": "编程语言/RUST/Rust高级进阶/函数式编程，闭包，迭代器/迭代器 Iterator",
+    "hPath": "富瀚/烧录",
     "hasReplace": false,
     "idPath": [
-      "20250421161831-4yd9i2x/20250906092022-mktvcon/20251019191859-tqs5a5e/20251022102657-daq88el/20251022102742-i96qnmf.sy"
+      "20250604144341-75bpbp8/20250604144344-jocgqqp.sy"
     ],
-    "k": "newtype",
+    "k": "bs=512",
     "method": 0,
     "page": 1,
-    "query": "newtype",
+    "query": "bs=512",
     "r": "",
     "removed": true,
     "replaceTypes": {
@@ -211,6 +231,11 @@
     "col": "",
     "colTab": "",
     "keys": [
+      "bs=512",
+      "完全限定",
+      "expect",
+      "unwrap",
+      "except",
       "newtype",
       "就算签名一样的闭包，类型也是不同的",
       "",
@@ -269,16 +294,13 @@
       "osip",
       "of",
       "引脚",
-      "lso",
-      "只读",
-      "库",
-      "文件夹",
-      "文件夹大小",
-      "exp"
+      "lso"
     ],
     "layout": 0,
     "layoutTab": 0,
-    "replaceKeys": [],
+    "replaceKeys": [
+      "bs=1"
+    ],
     "row": "468px",
     "rowTab": ""
   },
