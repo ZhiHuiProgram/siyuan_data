@@ -1,8 +1,28 @@
 [
   {
+    "rootID": "20251012152032-tzc8hs6",
+    "icon": "",
+    "title": "深入特征"
+  },
+  {
+    "rootID": "20251018230417-774c04a",
+    "icon": "",
+    "title": "格式化输出"
+  },
+  {
+    "rootID": "20251026164744-bpy4xvn",
+    "icon": "",
+    "title": "newtype和类型别名"
+  },
+  {
     "rootID": "20251025094721-qyevbq4",
     "icon": "",
     "title": "类型转换"
+  },
+  {
+    "rootID": "20251022102742-i96qnmf",
+    "icon": "",
+    "title": "迭代器 Iterator"
   },
   {
     "rootID": "20250604144344-jocgqqp",
@@ -13,11 +33,6 @@
     "rootID": "20250623100223-x92428j",
     "icon": "",
     "title": "uboot"
-  },
-  {
-    "rootID": "20251012152032-tzc8hs6",
-    "icon": "",
-    "title": "深入特征"
   },
   {
     "rootID": "20251014222805-id8l3ue",
@@ -80,11 +95,6 @@
     "title": "闭包，迭代器"
   },
   {
-    "rootID": "20251022102742-i96qnmf",
-    "icon": "",
-    "title": "迭代器 Iterator"
-  },
-  {
     "rootID": "20250508161508-ztfnxiw",
     "icon": "1f551",
     "title": "配置代理端口"
@@ -103,11 +113,6 @@
     "rootID": "20251012183520-avhaakb",
     "icon": "",
     "title": "集合类型"
-  },
-  {
-    "rootID": "20251018230417-774c04a",
-    "icon": "",
-    "title": "格式化输出"
   },
   {
     "rootID": "20250430111414-lz2uu61",
@@ -153,10 +158,5 @@
     "rootID": "20250906162852-3rm8d8h",
     "icon": "",
     "title": "关键字"
-  },
-  {
-    "rootID": "20251003212838-wbx2r2l",
-    "icon": "",
-    "title": "泛型和特征"
   }
 ]

@@ -30,49 +30,34 @@
     "currentTab": "dynamic"
   },
   "local-fileposition": {
-    "20250430111414-lz2uu61": {
-      "endId": "20250606140526-ljwhml0",
+    "20251003212853-onkdlp1": {
+      "endId": "20251010154426-wqf1koy",
+      "rootId": "20251003212853-onkdlp1",
+      "scrollTop": 3009,
+      "startId": "20251010154429-d2d4uyh"
+    },
+    "20251010170044-i3fs1d2": {
+      "endId": "20251010223715-k067y61",
+      "rootId": "20251010170044-i3fs1d2",
+      "scrollTop": 0,
+      "startId": "20251010170044-rsd1y15"
+    },
+    "20251012152032-tzc8hs6": {
+      "endId": "20251022180240-yp6bjuj",
       "focusEnd": 0,
-      "focusId": "20250430111414-u0wtr77",
+      "focusId": "20251022180242-hj8qpo2",
       "focusStart": 0,
-      "rootId": "20250430111414-lz2uu61",
-      "scrollTop": 0,
-      "startId": "20250430111414-u0wtr77"
-    },
-    "20250430135627-ergqdb2": {
-      "endId": "20250430135646-wv25vo7",
-      "focusEnd": 4,
-      "focusId": "20250430135627-fsemyrp",
-      "focusStart": 4,
-      "rootId": "20250430135627-ergqdb2",
-      "scrollTop": 0,
-      "startId": "20250430135627-fsemyrp"
-    },
-    "20250430140658-z0p2fu2": {
-      "endId": "20250714100806-hzqe678",
-      "focusEnd": 0,
-      "focusId": "20250430140658-4z0biad",
-      "focusStart": 0,
-      "rootId": "20250430140658-z0p2fu2",
-      "scrollTop": 0,
-      "startId": "20250430140658-4z0biad"
-    },
-    "20250508161508-ztfnxiw": {
-      "endId": "20250510151548-ym5g7ph",
-      "focusEnd": 4,
-      "focusId": "20250508161508-8a9vvkm",
-      "focusStart": 4,
-      "rootId": "20250508161508-ztfnxiw",
-      "scrollTop": 0,
-      "startId": "20250508161508-8a9vvkm"
+      "rootId": "20251012152032-tzc8hs6",
+      "scrollTop": 1900,
+      "startId": "20251022180242-hj8qpo2"
     },
     "20251022102742-i96qnmf": {
-      "endId": "20251024181824-vsub52z",
+      "endId": "20251024230428-h3otmy2",
       "focusEnd": 0,
-      "focusId": "20251024181824-vsub52z",
+      "focusId": "20251024230428-h3otmy2",
       "focusStart": 0,
       "rootId": "20251022102742-i96qnmf",
-      "scrollTop": 3030,
+      "scrollTop": 6352,
       "startId": "20251023230819-62c7jvt"
     }
   },
@@ -98,7 +83,7 @@
     {
       "notebookId": "20250421161831-4yd9i2x",
       "openPaths": [
-        "/20250906092022-mktvcon/20251019191859-tqs5a5e/20251025092245-u8dz1f1/20251025094721-qyevbq4.sy",
+        "/20250906092022-mktvcon/20251019191859-tqs5a5e/20251025092245-u8dz1f1/20251026164744-bpy4xvn.sy",
         "/20250906092022-mktvcon/20251019001120-h4p6cb6/20251003212838-wbx2r2l/20251012152032-tzc8hs6.sy"
       ]
     },
@@ -146,14 +131,14 @@
     }
   ],
   "local-fontstyles": [
-    "fontSize​16px",
-    "fontSize​14px",
-    "fontSize​12px",
-    "fontSize​72px",
+    "fontSize​26px",
+    "fontSize​22px",
     "fontSize​21px",
     "fontSize​19px",
-    "fontSize​22px",
-    "fontSize​26px"
+    "fontSize​12px",
+    "fontSize​16px",
+    "fontSize​14px",
+    "fontSize​72px"
   ],
   "local-history": {
     "notebookId": "%",
@@ -168,15 +153,13 @@
   },
   "local-searchdata": {
     "group": 0,
-    "hPath": "富瀚/烧录",
+    "hPath": "",
     "hasReplace": false,
-    "idPath": [
-      "20250604144341-75bpbp8/20250604144344-jocgqqp.sy"
-    ],
-    "k": "bs=512",
+    "idPath": [],
+    "k": "type",
     "method": 0,
     "page": 1,
-    "query": "bs=512",
+    "query": "type",
     "r": "",
     "removed": true,
     "replaceTypes": {
@@ -231,6 +214,7 @@
     "col": "",
     "colTab": "",
     "keys": [
+      "type",
       "bs=512",
       "完全限定",
       "expect",
@@ -293,8 +277,7 @@
       "pip",
       "osip",
       "of",
-      "引脚",
-      "lso"
+      "引脚"
     ],
     "layout": 0,
     "layoutTab": 0,
