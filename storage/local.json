@@ -83,7 +83,7 @@
     {
       "notebookId": "20250421161831-4yd9i2x",
       "openPaths": [
-        "/20250906092022-mktvcon/20251019191859-tqs5a5e/20251025092245-u8dz1f1/20251026164744-bpy4xvn.sy",
+        "/20250906092022-mktvcon/20251019191859-tqs5a5e/20251025092245-u8dz1f1/20251027224647-7fuxg2j.sy",
         "/20250906092022-mktvcon/20251019001120-h4p6cb6/20251003212838-wbx2r2l/20251012152032-tzc8hs6.sy"
       ]
     },
@@ -156,10 +156,10 @@
     "hPath": "",
     "hasReplace": false,
     "idPath": [],
-    "k": "type",
+    "k": "transmute",
     "method": 0,
     "page": 1,
-    "query": "type",
+    "query": "transmute",
     "r": "",
     "removed": true,
     "replaceTypes": {
@@ -214,6 +214,7 @@
     "col": "",
     "colTab": "",
     "keys": [
+      "transmute",
       "type",
       "bs=512",
       "完全限定",
@@ -276,8 +277,7 @@
       "8.8",
       "pip",
       "osip",
-      "of",
-      "引脚"
+      "of"
     ],
     "layout": 0,
     "layoutTab": 0,
