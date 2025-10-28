@@ -30,35 +30,59 @@
     "currentTab": "dynamic"
   },
   "local-fileposition": {
-    "20251003212853-onkdlp1": {
-      "endId": "20251010154426-wqf1koy",
-      "rootId": "20251003212853-onkdlp1",
-      "scrollTop": 3009,
-      "startId": "20251010154429-d2d4uyh"
+    "20250604144344-jocgqqp": {
+      "endId": "20250919161722-iuuo6nj",
+      "focusEnd": 1149,
+      "focusId": "20250626134709-91gdmcx",
+      "focusStart": 1149,
+      "rootId": "20250604144344-jocgqqp",
+      "scrollTop": 533,
+      "startId": "20250604155939-rn61mum"
     },
-    "20251010170044-i3fs1d2": {
-      "endId": "20251010223715-k067y61",
-      "rootId": "20251010170044-i3fs1d2",
+    "20250902140053-a36311t": {
+      "endId": "20250902140107-956ukei",
+      "focusEnd": 0,
+      "focusId": "20250902140106-d5vzjqd",
+      "focusStart": 0,
+      "rootId": "20250902140053-a36311t",
       "scrollTop": 0,
-      "startId": "20251010170044-rsd1y15"
+      "startId": "20250902140106-d5vzjqd"
     },
-    "20251012152032-tzc8hs6": {
-      "endId": "20251022180240-yp6bjuj",
-      "focusEnd": 0,
-      "focusId": "20251022180242-hj8qpo2",
-      "focusStart": 0,
-      "rootId": "20251012152032-tzc8hs6",
-      "scrollTop": 1900,
-      "startId": "20251022180242-hj8qpo2"
+    "20250919144745-ghb6o3p": {
+      "endId": "20250925172547-cp6mqyk",
+      "focusEnd": 118,
+      "focusId": "20250919144756-n3qlkui",
+      "focusStart": 8,
+      "rootId": "20250919144745-ghb6o3p",
+      "scrollTop": 0,
+      "startId": "20250919144745-hgri4bl"
     },
-    "20251022102742-i96qnmf": {
-      "endId": "20251024230428-h3otmy2",
+    "20251025094721-qyevbq4": {
+      "endId": "20251026013548-2dcrcgh",
       "focusEnd": 0,
-      "focusId": "20251024230428-h3otmy2",
+      "focusId": "20251025094732-vtw3z8g",
       "focusStart": 0,
-      "rootId": "20251022102742-i96qnmf",
-      "scrollTop": 6352,
-      "startId": "20251023230819-62c7jvt"
+      "rootId": "20251025094721-qyevbq4",
+      "scrollTop": 3085,
+      "startId": "20251025094732-vtw3z8g"
+    },
+    "20251026164744-bpy4xvn": {
+      "endId": "20251026231607-q0id4e0",
+      "focusEnd": 0,
+      "focusId": "20251026164801-puvqx16",
+      "focusStart": 0,
+      "rootId": "20251026164744-bpy4xvn",
+      "scrollTop": 1066,
+      "startId": "20251026164801-puvqx16"
+    },
+    "20251027200124-9aciy4b": {
+      "endId": "20251027200223-10aky4g",
+      "focusEnd": 0,
+      "focusId": "20251027200223-10aky4g",
+      "focusStart": 0,
+      "rootId": "20251027200124-9aciy4b",
+      "scrollTop": 0,
+      "startId": "20251027200153-8wn7446"
     }
   },
   "local-filespaths": [
@@ -156,10 +180,10 @@
     "hPath": "",
     "hasReplace": false,
     "idPath": [],
-    "k": "transmute",
+    "k": "",
     "method": 0,
     "page": 1,
-    "query": "transmute",
+    "query": "",
     "r": "",
     "removed": true,
     "replaceTypes": {
@@ -214,6 +238,9 @@
     "col": "",
     "colTab": "",
     "keys": [
+      "",
+      "nfs",
+      "ip addr add 192.168.30.214/24 dev eth0ip link set eth0 upip route add default via 192.168.30.254",
       "transmute",
       "type",
       "bs=512",
@@ -223,7 +250,6 @@
       "except",
       "newtype",
       "就算签名一样的闭包，类型也是不同的",
-      "",
       "i2c",
       "lsof",
       "ref",
@@ -263,7 +289,6 @@
       "crc32",
       "动态",
       "du",
-      "nfs",
       "tree",
       "yuv",
       "jpeg",
@@ -276,8 +301,7 @@
       "#​setenv ipaddr 192.168.30.66uboot#",
       "8.8",
       "pip",
-      "osip",
-      "of"
+      "osip"
     ],
     "layout": 0,
     "layoutTab": 0,
