@@ -30,59 +30,122 @@
     "currentTab": "dynamic"
   },
   "local-fileposition": {
-    "20250604144344-jocgqqp": {
-      "endId": "20250919161722-iuuo6nj",
-      "focusEnd": 1149,
-      "focusId": "20250626134709-91gdmcx",
-      "focusStart": 1149,
-      "rootId": "20250604144344-jocgqqp",
-      "scrollTop": 533,
-      "startId": "20250604155939-rn61mum"
+    "20251010170044-i3fs1d2": {
+      "endId": "20251010223715-k067y61",
+      "rootId": "20251010170044-i3fs1d2",
+      "scrollTop": 0,
+      "startId": "20251010170044-rsd1y15"
     },
-    "20250902140053-a36311t": {
-      "endId": "20250902140107-956ukei",
+    "20251011112833-g8ohkdr": {
+      "endId": "20251012012833-jphugs3",
+      "rootId": "20251011112833-g8ohkdr",
+      "scrollTop": 0,
+      "startId": "20251011112833-yprxzvz"
+    },
+    "20251012152032-tzc8hs6": {
+      "endId": "20251028225815-wxg8any",
       "focusEnd": 0,
-      "focusId": "20250902140106-d5vzjqd",
+      "focusId": "20251028225815-wxg8any",
       "focusStart": 0,
-      "rootId": "20250902140053-a36311t",
-      "scrollTop": 0,
-      "startId": "20250902140106-d5vzjqd"
+      "rootId": "20251012152032-tzc8hs6",
+      "scrollTop": 3600,
+      "startId": "20251022180242-hj8qpo2"
     },
-    "20250919144745-ghb6o3p": {
-      "endId": "20250925172547-cp6mqyk",
-      "focusEnd": 118,
-      "focusId": "20250919144756-n3qlkui",
-      "focusStart": 8,
-      "rootId": "20250919144745-ghb6o3p",
+    "20251012183713-w6di192": {
+      "endId": "20251012223548-0xz25a8",
+      "rootId": "20251012183713-w6di192",
       "scrollTop": 0,
-      "startId": "20250919144745-hgri4bl"
+      "startId": "20251012183713-iaj1yxz"
+    },
+    "20251013150557-sxwo09s": {
+      "endId": "20251014132206-498m5fb",
+      "focusEnd": 8,
+      "focusId": "20251013150557-m3ehcti",
+      "focusStart": 8,
+      "rootId": "20251013150557-sxwo09s",
+      "scrollTop": 0,
+      "startId": "20251013150557-m3ehcti"
+    },
+    "20251016220205-r91ev2o": {
+      "endId": "20251016220352-nxbchrq",
+      "rootId": "20251016220205-r91ev2o",
+      "scrollTop": 0,
+      "startId": "20251016220352-e61heci"
+    },
+    "20251017225757-qsl8u81": {
+      "endId": "20251018225249-admusg2",
+      "rootId": "20251017225757-qsl8u81",
+      "scrollTop": 1100,
+      "startId": "20251017225757-c7wk45d"
+    },
+    "20251021222156-ajxpd8g": {
+      "endId": "20251021222156-r2t80ia",
+      "rootId": "20251021222156-ajxpd8g",
+      "scrollTop": 0,
+      "startId": "20251021222156-r2t80ia"
+    },
+    "20251022102742-i96qnmf": {
+      "endId": "20251024230428-h3otmy2",
+      "rootId": "20251022102742-i96qnmf",
+      "scrollTop": 6352,
+      "startId": "20251023230819-62c7jvt"
     },
     "20251025094721-qyevbq4": {
-      "endId": "20251026013548-2dcrcgh",
-      "focusEnd": 0,
-      "focusId": "20251025094732-vtw3z8g",
-      "focusStart": 0,
+      "endId": "20251026122534-3qbyddq",
+      "focusEnd": 439,
+      "focusId": "20251026122535-p962nlt",
+      "focusStart": 439,
       "rootId": "20251025094721-qyevbq4",
-      "scrollTop": 3085,
+      "scrollTop": 4802,
       "startId": "20251025094732-vtw3z8g"
     },
     "20251026164744-bpy4xvn": {
       "endId": "20251026231607-q0id4e0",
-      "focusEnd": 0,
-      "focusId": "20251026164801-puvqx16",
-      "focusStart": 0,
+      "focusEnd": 8,
+      "focusId": "20251026231607-q0id4e0",
+      "focusStart": 8,
       "rootId": "20251026164744-bpy4xvn",
-      "scrollTop": 1066,
+      "scrollTop": 1037,
       "startId": "20251026164801-puvqx16"
     },
-    "20251027200124-9aciy4b": {
-      "endId": "20251027200223-10aky4g",
+    "20251027213845-1wbi9b0": {
+      "endId": "20251027224640-tx9hsv2",
+      "rootId": "20251027213845-1wbi9b0",
+      "scrollTop": 956,
+      "startId": "20251027213845-typfs7x"
+    },
+    "20251027224647-7fuxg2j": {
+      "endId": "20251027231443-79bj0iz",
+      "rootId": "20251027224647-7fuxg2j",
+      "scrollTop": 2635,
+      "startId": "20251027224656-xi5o6xs"
+    },
+    "20251028210415-5fuzxb1": {
+      "endId": "20251028211327-4c47pn9",
       "focusEnd": 0,
-      "focusId": "20251027200223-10aky4g",
+      "focusId": "20251028211327-4c47pn9",
       "focusStart": 0,
-      "rootId": "20251027200124-9aciy4b",
+      "rootId": "20251028210415-5fuzxb1",
       "scrollTop": 0,
-      "startId": "20251027200153-8wn7446"
+      "startId": "20251028210415-zblcn6w"
+    },
+    "20251028211614-dpb93bh": {
+      "endId": "20251028222727-g07im5d",
+      "focusEnd": 104,
+      "focusId": "20251028222727-g07im5d",
+      "focusStart": 104,
+      "rootId": "20251028211614-dpb93bh",
+      "scrollTop": 2958,
+      "startId": "20251028212104-0tq1vaq"
+    },
+    "20251028223203-90idmau": {
+      "endId": "20251028225259-o2augn7",
+      "focusEnd": 259,
+      "focusId": "20251028225259-o2augn7",
+      "focusStart": 259,
+      "rootId": "20251028223203-90idmau",
+      "scrollTop": 722,
+      "startId": "20251028223948-lcfb2gj"
     }
   },
   "local-filespaths": [
@@ -107,7 +170,9 @@
     {
       "notebookId": "20250421161831-4yd9i2x",
       "openPaths": [
+        "/20250906092022-mktvcon/20251019191859-tqs5a5e/20251028210415-5fuzxb1/20251028223203-90idmau.sy",
         "/20250906092022-mktvcon/20251019191859-tqs5a5e/20251025092245-u8dz1f1/20251027224647-7fuxg2j.sy",
+        "/20250906092022-mktvcon/20251019191859-tqs5a5e/20251021222156-ajxpd8g/20251021222159-owf3p2m.sy",
         "/20250906092022-mktvcon/20251019001120-h4p6cb6/20251003212838-wbx2r2l/20251012152032-tzc8hs6.sy"
       ]
     },
@@ -180,10 +245,10 @@
     "hPath": "",
     "hasReplace": false,
     "idPath": [],
-    "k": "",
+    "k": "V,",
     "method": 0,
     "page": 1,
-    "query": "",
+    "query": "V,",
     "r": "",
     "removed": true,
     "replaceTypes": {
@@ -238,6 +303,10 @@
     "col": "",
     "colTab": "",
     "keys": [
+      "V,",
+      "U,V",
+      "表达式",
+      "deref",
       "",
       "nfs",
       "ip addr add 192.168.30.214/24 dev eth0ip link set eth0 upip route add default via 192.168.30.254",
@@ -258,7 +327,6 @@
       "next",
       "unwrap_or_else",
       "map",
-      "deref",
       "s",
       "result",
       "get",
@@ -270,7 +338,6 @@
       "hexdu",
       "\".",
       "..",
-      "表达式",
       "cursor",
       "软",
       "软连接",
@@ -299,9 +366,7 @@
       "sf probe 0;sf read 0x40007800 0x120000 0xc00000;bootx 0x40008000 - 0x41000000",
       "#​setenv ipaddr 192.168.30.66#",
       "#​setenv ipaddr 192.168.30.66uboot#",
-      "8.8",
-      "pip",
-      "osip"
+      "8.8"
     ],
     "layout": 0,
     "layoutTab": 0,
