@@ -245,10 +245,10 @@
     "hPath": "",
     "hasReplace": false,
     "idPath": [],
-    "k": "V,",
+    "k": "unuse",
     "method": 0,
     "page": 1,
-    "query": "V,",
+    "query": "unuse",
     "r": "",
     "removed": true,
     "replaceTypes": {
@@ -303,6 +303,7 @@
     "col": "",
     "colTab": "",
     "keys": [
+      "unuse",
       "V,",
       "U,V",
       "表达式",
@@ -365,8 +366,7 @@
       "ffmpeg",
       "sf probe 0;sf read 0x40007800 0x120000 0xc00000;bootx 0x40008000 - 0x41000000",
       "#​setenv ipaddr 192.168.30.66#",
-      "#​setenv ipaddr 192.168.30.66uboot#",
-      "8.8"
+      "#​setenv ipaddr 192.168.30.66uboot#"
     ],
     "layout": 0,
     "layoutTab": 0,
