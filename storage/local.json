@@ -30,6 +30,12 @@
     "currentTab": "dynamic"
   },
   "local-fileposition": {
+    "20251003212838-wbx2r2l": {
+      "endId": "20251003212838-egjdo82",
+      "rootId": "20251003212838-wbx2r2l",
+      "scrollTop": 0,
+      "startId": "20251003212838-egjdo82"
+    },
     "20251010170044-i3fs1d2": {
       "endId": "20251010223715-k067y61",
       "rootId": "20251010170044-i3fs1d2",
@@ -66,6 +72,18 @@
       "scrollTop": 0,
       "startId": "20251013150557-m3ehcti"
     },
+    "20251014132302-nihsg81": {
+      "endId": "20251014145700-h7ovsqr",
+      "rootId": "20251014132302-nihsg81",
+      "scrollTop": 0,
+      "startId": "20251014132302-f9oj4z7"
+    },
+    "20251014150038-526p2mh": {
+      "endId": "20251014150116-wfyhkhg",
+      "rootId": "20251014150038-526p2mh",
+      "scrollTop": 0,
+      "startId": "20251014150059-nwrf1fv"
+    },
     "20251016220205-r91ev2o": {
       "endId": "20251016220352-nxbchrq",
       "rootId": "20251016220205-r91ev2o",
@@ -77,6 +95,12 @@
       "rootId": "20251017225757-qsl8u81",
       "scrollTop": 1100,
       "startId": "20251017225757-c7wk45d"
+    },
+    "20251019191912-4kxjs0x": {
+      "endId": "20251021182527-fay3e78",
+      "rootId": "20251019191912-4kxjs0x",
+      "scrollTop": 1700,
+      "startId": "20251020222903-qhd3x11"
     },
     "20251021222156-ajxpd8g": {
       "endId": "20251021222156-r2t80ia",
@@ -131,9 +155,9 @@
     },
     "20251028211614-dpb93bh": {
       "endId": "20251028222727-g07im5d",
-      "focusEnd": 104,
+      "focusEnd": 8,
       "focusId": "20251028222727-g07im5d",
-      "focusStart": 104,
+      "focusStart": 8,
       "rootId": "20251028211614-dpb93bh",
       "scrollTop": 2958,
       "startId": "20251028212104-0tq1vaq"
@@ -170,7 +194,7 @@
     {
       "notebookId": "20250421161831-4yd9i2x",
       "openPaths": [
-        "/20250906092022-mktvcon/20251019191859-tqs5a5e/20251028210415-5fuzxb1/20251028223203-90idmau.sy",
+        "/20250906092022-mktvcon/20251019191859-tqs5a5e/20251028210415-5fuzxb1/20251030221820-yfsydy6.sy",
         "/20250906092022-mktvcon/20251019191859-tqs5a5e/20251025092245-u8dz1f1/20251027224647-7fuxg2j.sy",
         "/20250906092022-mktvcon/20251019191859-tqs5a5e/20251021222156-ajxpd8g/20251021222159-owf3p2m.sy",
         "/20250906092022-mktvcon/20251019001120-h4p6cb6/20251003212838-wbx2r2l/20251012152032-tzc8hs6.sy"
@@ -245,10 +269,10 @@
     "hPath": "",
     "hasReplace": false,
     "idPath": [],
-    "k": "unuse",
+    "k": "不可变借用",
     "method": 0,
     "page": 1,
-    "query": "unuse",
+    "query": "不可变借用",
     "r": "",
     "removed": true,
     "replaceTypes": {
@@ -303,6 +327,7 @@
     "col": "",
     "colTab": "",
     "keys": [
+      "不可变借用",
       "unuse",
       "V,",
       "U,V",
@@ -365,8 +390,7 @@
       "ld_lib",
       "ffmpeg",
       "sf probe 0;sf read 0x40007800 0x120000 0xc00000;bootx 0x40008000 - 0x41000000",
-      "#​setenv ipaddr 192.168.30.66#",
-      "#​setenv ipaddr 192.168.30.66uboot#"
+      "#​setenv ipaddr 192.168.30.66#"
     ],
     "layout": 0,
     "layoutTab": 0,
