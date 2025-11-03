@@ -80,9 +80,7 @@
     {
       "notebookId": "20250421161831-4yd9i2x",
       "openPaths": [
-        "/20250906092022-mktvcon/20251019191859-tqs5a5e/20251028210415-5fuzxb1/20251030221820-yfsydy6.sy",
-        "/20250906092022-mktvcon/20251019191859-tqs5a5e/20251025092245-u8dz1f1/20251027224647-7fuxg2j.sy",
-        "/20250906092022-mktvcon/20251019191859-tqs5a5e/20251021222156-ajxpd8g/20251021222159-owf3p2m.sy",
+        "/20250906092022-mktvcon/20251019191859-tqs5a5e/20251102002855-prxftkh/20251102002917-h1hm9s4.sy",
         "/20250906092022-mktvcon/20251019001120-h4p6cb6/20251003212838-wbx2r2l/20251012152032-tzc8hs6.sy"
       ]
     },
@@ -152,15 +150,15 @@
   },
   "local-searchdata": {
     "group": 0,
-    "hPath": "lib/iperf",
+    "hPath": "编程语言/RUST/Rust高级进阶/循环引用与自引用/Weak 与循环引用",
     "hasReplace": false,
     "idPath": [
-      "20250618150512-gezubzl/20251101145914-i5m47km.sy"
+      "20250421161831-4yd9i2x/20250906092022-mktvcon/20251019191859-tqs5a5e/20251102002855-prxftkh/20251102002917-h1hm9s4.sy"
     ],
-    "k": "all-am",
+    "k": "Cons",
     "method": 0,
     "page": 1,
-    "query": "all-am",
+    "query": "Cons",
     "r": "",
     "removed": true,
     "replaceTypes": {
@@ -215,6 +213,7 @@
     "col": "",
     "colTab": "",
     "keys": [
+      "Cons",
       "all-am",
       "不可变借用",
       "unuse",
@@ -277,8 +276,7 @@
       "abc",
       "d",
       "ld_lib",
-      "ffmpeg",
-      "sf probe 0;sf read 0x40007800 0x120000 0xc00000;bootx 0x40008000 - 0x41000000"
+      "ffmpeg"
     ],
     "layout": 0,
     "layoutTab": 0,
