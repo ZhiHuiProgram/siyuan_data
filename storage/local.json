@@ -32,30 +32,39 @@
   "local-fileposition": {
     "20250604144344-jocgqqp": {
       "endId": "20250919161722-iuuo6nj",
-      "focusEnd": 753,
+      "focusEnd": 274,
       "focusId": "20250626134709-91gdmcx",
-      "focusStart": 21,
+      "focusStart": 274,
       "rootId": "20250604144344-jocgqqp",
-      "scrollTop": 1066,
+      "scrollTop": 799,
       "startId": "20250604155939-rn61mum"
     },
-    "20250604153151-9z46sfa": {
-      "endId": "20251031145431-kxw76h6",
+    "20250902140053-a36311t": {
+      "endId": "20250902140107-956ukei",
       "focusEnd": 0,
-      "focusId": "20251031145431-kxw76h6",
+      "focusId": "20250902140106-d5vzjqd",
       "focusStart": 0,
-      "rootId": "20250604153151-9z46sfa",
+      "rootId": "20250902140053-a36311t",
       "scrollTop": 0,
-      "startId": "20251022091608-chlnxge"
+      "startId": "20250902140106-d5vzjqd"
     },
-    "20250623100223-x92428j": {
-      "endId": "20250930111521-r97nm47",
-      "focusEnd": 0,
-      "focusId": "20250721183121-5almhql",
-      "focusStart": 0,
-      "rootId": "20250623100223-x92428j",
+    "20250919144745-ghb6o3p": {
+      "endId": "20250925172547-cp6mqyk",
+      "focusEnd": 118,
+      "focusId": "20250919144756-n3qlkui",
+      "focusStart": 8,
+      "rootId": "20250919144745-ghb6o3p",
       "scrollTop": 0,
-      "startId": "20250721183121-5almhql"
+      "startId": "20250919144745-hgri4bl"
+    },
+    "20251102002917-h1hm9s4": {
+      "endId": "20251102003817-hokjarg",
+      "focusEnd": 0,
+      "focusId": "20251102003817-hokjarg",
+      "focusStart": 0,
+      "rootId": "20251102002917-h1hm9s4",
+      "scrollTop": 0,
+      "startId": "20251102002917-0nd0d87"
     }
   },
   "local-filespaths": [
@@ -150,15 +159,13 @@
   },
   "local-searchdata": {
     "group": 0,
-    "hPath": "编程语言/RUST/Rust高级进阶/循环引用与自引用/Weak 与循环引用",
+    "hPath": "",
     "hasReplace": false,
-    "idPath": [
-      "20250421161831-4yd9i2x/20250906092022-mktvcon/20251019191859-tqs5a5e/20251102002855-prxftkh/20251102002917-h1hm9s4.sy"
-    ],
-    "k": "Cons",
+    "idPath": [],
+    "k": "ln",
     "method": 0,
     "page": 1,
-    "query": "Cons",
+    "query": "ln",
     "r": "",
     "removed": true,
     "replaceTypes": {
@@ -213,6 +220,8 @@
     "col": "",
     "colTab": "",
     "keys": [
+      "ln",
+      "ln -s",
       "Cons",
       "all-am",
       "不可变借用",
@@ -255,7 +264,6 @@
       "cursor",
       "软",
       "软连接",
-      "ln",
       "dd",
       "DD",
       "export",
@@ -275,8 +283,7 @@
       "jpeg",
       "abc",
       "d",
-      "ld_lib",
-      "ffmpeg"
+      "ld_lib"
     ],
     "layout": 0,
     "layoutTab": 0,
