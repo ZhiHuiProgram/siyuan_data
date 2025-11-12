@@ -30,41 +30,14 @@
     "currentTab": "dynamic"
   },
   "local-fileposition": {
-    "20250415202821-ebmk4hh": {
-      "endId": "20251023113222-rmumytd",
+    "20250425103241-yb8mqcf": {
+      "endId": "20250425110317-cs2wkn5",
       "focusEnd": 0,
-      "focusId": "20250415202821-sih3k1v",
+      "focusId": "20250425103241-bw9swrt",
       "focusStart": 0,
-      "rootId": "20250415202821-ebmk4hh",
-      "scrollTop": 1600,
-      "startId": "20250415202821-sih3k1v"
-    },
-    "20250430111414-lz2uu61": {
-      "endId": "20250606140526-ljwhml0",
-      "focusEnd": 0,
-      "focusId": "20250430111414-u0wtr77",
-      "focusStart": 0,
-      "rootId": "20250430111414-lz2uu61",
-      "scrollTop": 533,
-      "startId": "20250430111414-u0wtr77"
-    },
-    "20250604144344-jocgqqp": {
-      "endId": "20250919161722-iuuo6nj",
-      "focusEnd": 274,
-      "focusId": "20250626134709-91gdmcx",
-      "focusStart": 274,
-      "rootId": "20250604144344-jocgqqp",
-      "scrollTop": 799,
-      "startId": "20250604155939-rn61mum"
-    },
-    "20250604153151-9z46sfa": {
-      "endId": "20251106112127-av4mj2s",
-      "focusEnd": 0,
-      "focusId": "20251106112127-av4mj2s",
-      "focusStart": 0,
-      "rootId": "20250604153151-9z46sfa",
-      "scrollTop": 122,
-      "startId": "20251022091608-chlnxge"
+      "rootId": "20250425103241-yb8mqcf",
+      "scrollTop": 0,
+      "startId": "20250425103241-bw9swrt"
     },
     "20250902140053-a36311t": {
       "endId": "20250902140107-956ukei",
@@ -77,7 +50,7 @@
     },
     "20250919144745-ghb6o3p": {
       "endId": "20250925172547-cp6mqyk",
-      "focusEnd": 118,
+      "focusEnd": 119,
       "focusId": "20250919144756-n3qlkui",
       "focusStart": 8,
       "rootId": "20250919144745-ghb6o3p",
@@ -85,9 +58,9 @@
       "startId": "20250919144745-hgri4bl"
     },
     "20251102002917-h1hm9s4": {
-      "endId": "20251102003817-hokjarg",
+      "endId": "20251110224114-kcxlqcv",
       "focusEnd": 0,
-      "focusId": "20251102003817-hokjarg",
+      "focusId": "20251102002917-0nd0d87",
       "focusStart": 0,
       "rootId": "20251102002917-h1hm9s4",
       "scrollTop": 0,
@@ -190,10 +163,10 @@
     "hPath": "",
     "hasReplace": false,
     "idPath": [],
-    "k": "ln",
+    "k": "dd",
     "method": 0,
     "page": 1,
-    "query": "ln",
+    "query": "dd",
     "r": "",
     "removed": true,
     "replaceTypes": {
@@ -248,6 +221,7 @@
     "col": "",
     "colTab": "",
     "keys": [
+      "dd",
       "ln",
       "ln -s",
       "Cons",
@@ -292,7 +266,6 @@
       "cursor",
       "软",
       "软连接",
-      "dd",
       "DD",
       "export",
       "npu",
