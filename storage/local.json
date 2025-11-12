@@ -57,14 +57,38 @@
       "scrollTop": 0,
       "startId": "20250919144745-hgri4bl"
     },
-    "20251102002917-h1hm9s4": {
-      "endId": "20251110224114-kcxlqcv",
+    "20251030214803-3787i0o": {
+      "endId": "20251112215112-8lvwbtm",
+      "rootId": "20251030214803-3787i0o",
+      "scrollTop": 1786,
+      "startId": "20251030214803-q64zxlv"
+    },
+    "20251030221820-yfsydy6": {
+      "endId": "20251102002401-06u5hkq",
       "focusEnd": 0,
-      "focusId": "20251102002917-0nd0d87",
+      "focusId": "20251030221820-afbdves",
+      "focusStart": 0,
+      "rootId": "20251030221820-yfsydy6",
+      "scrollTop": 1700,
+      "startId": "20251030221820-afbdves"
+    },
+    "20251102002917-h1hm9s4": {
+      "endId": "20251112220611-p3zdiuo",
+      "focusEnd": 0,
+      "focusId": "20251112220611-p3zdiuo",
       "focusStart": 0,
       "rootId": "20251102002917-h1hm9s4",
       "scrollTop": 0,
       "startId": "20251102002917-0nd0d87"
+    },
+    "20251112221630-ef99rxi": {
+      "endId": "20251112225721-ab07ia1",
+      "focusEnd": 113,
+      "focusId": "20251112221630-87zuvzb",
+      "focusStart": 113,
+      "rootId": "20251112221630-ef99rxi",
+      "scrollTop": 0,
+      "startId": "20251112225434-m7qmw37"
     }
   },
   "local-filespaths": [
@@ -89,7 +113,8 @@
     {
       "notebookId": "20250421161831-4yd9i2x",
       "openPaths": [
-        "/20250906092022-mktvcon/20251019191859-tqs5a5e/20251102002855-prxftkh/20251102002917-h1hm9s4.sy",
+        "/20250906092022-mktvcon/20251019191859-tqs5a5e/20251102002855-prxftkh/20251112221630-ef99rxi.sy",
+        "/20250906092022-mktvcon/20251019191859-tqs5a5e/20251028210415-5fuzxb1/20251030221820-yfsydy6.sy",
         "/20250906092022-mktvcon/20251019191859-tqs5a5e/20251021222156-ajxpd8g/20251021222159-owf3p2m.sy",
         "/20250906092022-mktvcon/20251019001120-h4p6cb6/20251003212838-wbx2r2l/20251012152032-tzc8hs6.sy"
       ]
@@ -160,13 +185,15 @@
   },
   "local-searchdata": {
     "group": 0,
-    "hPath": "",
+    "hPath": "编程语言/RUST/Rust高级进阶/循环引用与自引用/结构体自引用",
     "hasReplace": false,
-    "idPath": [],
-    "k": "dd",
+    "idPath": [
+      "20250421161831-4yd9i2x/20250906092022-mktvcon/20251019191859-tqs5a5e/20251102002855-prxftkh/20251112221630-ef99rxi.sy"
+    ],
+    "k": "nll",
     "method": 0,
     "page": 1,
-    "query": "dd",
+    "query": "nll",
     "r": "",
     "removed": true,
     "replaceTypes": {
@@ -221,6 +248,7 @@
     "col": "",
     "colTab": "",
     "keys": [
+      "nll",
       "dd",
       "ln",
       "ln -s",
@@ -283,8 +311,7 @@
       "yuv",
       "jpeg",
       "abc",
-      "d",
-      "ld_lib"
+      "d"
     ],
     "layout": 0,
     "layoutTab": 0,
