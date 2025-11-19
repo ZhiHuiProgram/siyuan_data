@@ -30,23 +30,78 @@
     "currentTab": "dynamic"
   },
   "local-fileposition": {
-    "20251114223946-6415cm8": {
-      "endId": "20251117212357-j19ug8d",
-      "focusEnd": 12,
-      "focusId": "20251114223950-y9mk787",
-      "focusStart": 12,
-      "rootId": "20251114223946-6415cm8",
-      "scrollTop": 7188,
-      "startId": "20251114223950-y9mk787"
+    "20250430111414-lz2uu61": {
+      "endId": "20250606140526-ljwhml0",
+      "focusEnd": 4,
+      "focusId": "20250520094435-kdmwvzs",
+      "focusStart": 4,
+      "rootId": "20250430111414-lz2uu61",
+      "scrollTop": 320,
+      "startId": "20250430111414-u0wtr77"
     },
-    "20251117215643-5nge4at": {
-      "endId": "20251117230520-bj88xis",
-      "focusEnd": 0,
-      "focusId": "20251117230520-bj88xis",
+    "20250527175746-1dvx7su": {
+      "endId": "20250610095037-vnj921k",
+      "focusEnd": 8,
+      "focusId": "20250527175752-1mitzwf",
+      "focusStart": 8,
+      "rootId": "20250527175746-1dvx7su",
+      "scrollTop": 0,
+      "startId": "20250527175752-1mitzwf"
+    },
+    "20250604144344-jocgqqp": {
+      "endId": "20251118155410-5tt0w2c",
+      "focusEnd": 1998,
+      "focusId": "20250626134709-91gdmcx",
+      "focusStart": 1396,
+      "rootId": "20250604144344-jocgqqp",
+      "scrollTop": 1333,
+      "startId": "20250604155939-rn61mum"
+    },
+    "20250604153151-9z46sfa": {
+      "endId": "20251106112127-av4mj2s",
+      "focusEnd": 98,
+      "focusId": "20250912163354-8uwo98e",
       "focusStart": 0,
-      "rootId": "20251117215643-5nge4at",
-      "scrollTop": 3884,
-      "startId": "20251117215643-yu5uiut"
+      "rootId": "20250604153151-9z46sfa",
+      "scrollTop": 0,
+      "startId": "20251022091608-chlnxge"
+    },
+    "20250623100223-x92428j": {
+      "endId": "20251118153815-762ddzr",
+      "focusEnd": 0,
+      "focusId": "20251118153815-762ddzr",
+      "focusStart": 0,
+      "rootId": "20250623100223-x92428j",
+      "scrollTop": 800,
+      "startId": "20250721183121-5almhql"
+    },
+    "20251118155420-h65y32i": {
+      "endId": "20251118161421-tj221kd",
+      "focusEnd": 0,
+      "focusId": "20251118161421-tj221kd",
+      "focusStart": 0,
+      "rootId": "20251118155420-h65y32i",
+      "scrollTop": 0,
+      "startId": "20251118161421-tj221kd"
+    },
+    "20251118161411-kbl9wk5": {
+      "endId": "20251118161423-lrcbbxe",
+      "focusEnd": 0,
+      "focusId": "20251118161423-lrcbbxe",
+      "focusStart": 0,
+      "rootId": "20251118161411-kbl9wk5",
+      "scrollTop": 0,
+      "startId": "20251118161423-bmzthal"
+    },
+    "20251118161426-77i7tyr": {
+      "endId": "20251118164758-9bi1nox",
+      "focusEnd": 0,
+      "focusId": "20251118164758-9bi1nox",
+      "focusStart": 0,
+      "rootId": "20251118161426-77i7tyr",
+      "scrollTop": 1625,
+      "startId": "20251118164551-0xwp2tj",
+      "zoomInId": "20251118164551-0xwp2tj"
     }
   },
   "local-filespaths": [
@@ -95,7 +150,8 @@
     {
       "notebookId": "20250604144341-75bpbp8",
       "openPaths": [
-        "/20251118155420-h65y32i.sy"
+        "/20251118155420-h65y32i/20251118161426-77i7tyr.sy",
+        "/20250604144344-jocgqqp/20251117134116-p0fq1gu.sy"
       ]
     },
     {
@@ -134,15 +190,13 @@
   },
   "local-searchdata": {
     "group": 0,
-    "hPath": "编程语言/RUST/Rust高级进阶/循环引用与自引用/结构体自引用",
+    "hPath": "",
     "hasReplace": false,
-    "idPath": [
-      "20250421161831-4yd9i2x/20250906092022-mktvcon/20251019191859-tqs5a5e/20251102002855-prxftkh/20251112221630-ef99rxi.sy"
-    ],
-    "k": "nll",
+    "idPath": [],
+    "k": "root",
     "method": 0,
     "page": 1,
-    "query": "nll",
+    "query": "root",
     "r": "",
     "removed": true,
     "replaceTypes": {
@@ -197,6 +251,10 @@
     "col": "",
     "colTab": "",
     "keys": [
+      "root",
+      "fsck",
+      "dofs",
+      "mmc erase 0 0x100setenv partitions 'uuid_disk=12345678-abcd-1234-5678-1234567890ab;name=EFI,start=204800,size=409600,uuid=11111111-1111-1111-1111-111111111111;name=rootfs,start=614400,size=-,uuid=22222222-2222-2222-2222-222222222222'gpt write mmc 0 ${partitions}",
       "nll",
       "dd",
       "ln",
@@ -256,11 +314,7 @@
       "crc32",
       "动态",
       "du",
-      "tree",
-      "yuv",
-      "jpeg",
-      "abc",
-      "d"
+      "tree"
     ],
     "layout": 0,
     "layoutTab": 0,
